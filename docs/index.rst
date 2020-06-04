@@ -10,6 +10,7 @@ Welcome to NumFOCUS Infrastructure's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+  server_requests/2020/index
 
 
 Indices and tables
