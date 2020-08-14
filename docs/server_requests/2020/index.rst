@@ -11,6 +11,7 @@ Server Requests
   itk
   julia
   palisade
+  scipy
 
 Indices and tables
 ==================
