@@ -20,7 +20,7 @@ We use: S3, Cloudfront, Elastic Beanstalk, Simple Email Service, Elastic Contain
 
 1. Please provide us with an estimated cost for meeting those needs (in U.S. Dollars):
 
-It has been in the ~1800 USD/yr including the stabilizd traffic from JHU  Bokeh content at https://coronavirus.jhu.edu/data/animated-world-map However we would like headroom to absorb any unexpected spikes in CDN usage, and to move on some new initiatives.
+It has been in the ~1800 USD/yr including the stabilizd traffic from JHU  Bokeh content at https://coronavirus.jhu.edu/data/animated-world-map However we would like headroom to absorb any unexpected spikes in CDN usage, and to move on some new initiatives, and request 3000 USD/yr.
 
 1. Are any of these needs particularly urgent or important? If so, please explain.
 
