@@ -1,0 +1,48 @@
+name: Custom domain
+description: Request a custom domain managed by NumFOCUS for your project website, docs...
+labels: [Custom Domain]
+
+body:
+  - type: input
+    id: project
+    attributes:
+      label: project
+      description: >
+        Please provide what NumFOCUS sponsored project you represent
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: is_update
+    attributes:
+      label: Update existing domain?
+      options:
+        - label: >
+            This request is for updating the DNS of an EXISTING domain
+
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      description: >
+        Please provide what domain you are requesting
+    validations:
+      required: true
+
+  - type: textarea
+    id: dns
+    attributes:
+      label: DNS
+      description: >
+        Please provide what DNS records do you need for the subdomain (e.g. `A 8.8.8.8`)
+    validations:
+      required: true
+
+  - type: textarea
+    id: observations
+    attributes:
+      label: Observations
+      description: >
+        Please let us know if there is any other information you'd like to provide
+    validations:
+      required: true

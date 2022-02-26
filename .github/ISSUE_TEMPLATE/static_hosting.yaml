@@ -1,0 +1,61 @@
+name: Static Hosting
+description: Request static hosting for your project website, docs...
+labels: [Static Hosting]
+
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: >
+        Please provide what NumFOCUS sponsored project you represent
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Can you use GitHub pages instead?
+      options:
+        - label: >
+            I read and understood that static hosting should only be requested
+            if requirements are too big for GitHub pages.
+            See [NumFOCUS infrastructure services for projects](/numfocus/infrastructure/tree/master/projects/README.md)
+          required: true
+
+  - type: input
+    id: disk_requirements
+    attributes:
+      label: Disk Requirements
+      description: >
+        How many GB of storage do you need for your site?
+    validations:
+      required: true
+
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      description: >
+        What will be the domain being used to access the requested site?
+    validations:
+      required: true
+
+  - type: textarea
+    id: public_keys
+    attributes:
+      label: Public keys
+      description: >
+        Please provide the public keys to access the storage via SSH. This should
+        include personal keys, as well as CI keys or others.
+    validations:
+      required: true
+
+  - type: textarea
+    id: observations
+    attributes:
+      label: Observations
+      description: >
+        Please let us know if there is any other information you'd like to provide
+    validations:
+      required: true
