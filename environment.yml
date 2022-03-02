@@ -1,9 +1,0 @@
-name: data_catalog
-channels:
-- conda-forge
-- defaults
-- rexchange
-dependencies:
-- pip==20.0.2
-- sphinx==3.0.4
-- recommonmark==0.6.0
