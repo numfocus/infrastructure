@@ -6,13 +6,13 @@ offers to its supported projects.
 ## Request a \<subdomain\>.pydata.org
 
 If your project wants to use a pydata.org subdomain, please create a
-[pydata.org subdomain issue](/numfocus/infrastructure/issues/new?labels=Pydata%2CSubdomain&template=pydata_subdomain.yaml)
+[pydata.org subdomain issue](https://github.com/numfocus/infrastructure/issues/new?labels=Pydata%2CSubdomain&template=pydata_subdomain.yaml)
 
 
 ## Request a custom domain
 
 If your project wants to use a pydata.org subdomain, please create a
-[custom domain issue](/numfocus/infrastructure/issues/new?labels=Custom%2CDomain&template=custom_domain.yaml)
+[custom domain issue](https://github.com/numfocus/infrastructure/issues/new?labels=Custom%2CDomain&template=custom_domain.yaml)
 
 
 ## Request hosting for a static site
@@ -28,7 +28,7 @@ exceed [GitHub pages quotas](https://docs.github.com/en/pages/getting-started-wi
 
 To set up GitHub pages you can push the built website to a new repository
 or a branch of your existing repository, and configure it to be served at
-https://github.com/\<your-org\>/\<your-repo\>/settings/pages
+`https://github.com/<your-org>/<your-repo>/settings/pages`
 
 It supports a default `.github.io` subdomain, or a custom domain.
 
@@ -38,7 +38,7 @@ cost to NumFOCUS in money or time.
 ### Bigger static site
 
 If you need static hosting which exceed GitHub pages quotas, please create a
-[static hosting issue](/numfocus/infrastructure/issues/new?labels=Static%2CHosting&template=template=static_hosting.yaml)
+[static hosting issue](https://github.com/numfocus/infrastructure/issues/new?labels=Static%2CHosting&template=template=static_hosting.yaml)
 
 
 ## Request performance benchmarks for your project
@@ -52,7 +52,7 @@ For this reason, NumFOCUS provides the service of running
 and publish the results at https://pandas.pydata.org/speed/
 
 If your project wants its benchmarks being published, please create a
-[benchmarks issue](/numfocus/infrastructure/issues/new?labels=Benchmarks&template=template=benchmarks.yaml)
+[benchmarks issue](https://github.com/numfocus/infrastructure/issues/new?labels=Benchmarks&template=template=benchmarks.yaml)
 
 
 ## Other requests
