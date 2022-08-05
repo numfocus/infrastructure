@@ -6,19 +6,19 @@ body:
   - type: input
     id: project
     attributes:
-      label: project
+      label: Project or community
       description: >
-        Please provide what NumFOCUS sponsored project you represent
+        Please provide what NumFOCUS sponsored project, or user group you represent
     validations:
       required: true
 
   - type: checkboxes
-    id: is_update
+    id: is_new
     attributes:
-      label: Update existing domain?
+      label: New domain request?
       options:
         - label: >
-            This request is for updating the DNS of an EXISTING domain
+            This request is for creating the DNS of an NEW domain (leave unchecked if requesting an update)
 
   - type: input
     id: domain
@@ -34,7 +34,7 @@ body:
     attributes:
       label: DNS
       description: >
-        Please provide what DNS records do you need for the subdomain (e.g. `A 8.8.8.8`)
+        Please provide what DNS records do you need for the subdomain (e.g. `A 8.8.8.8` or `CNAME you.github.io`)
     validations:
       required: true
 
