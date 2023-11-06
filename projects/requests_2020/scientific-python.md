@@ -3,7 +3,7 @@
 ## Project Details
 
 Name: Scientific Python
-Website: 
+Website:
 
 
 ## Request November 2020

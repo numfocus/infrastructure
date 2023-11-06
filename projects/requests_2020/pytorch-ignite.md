@@ -25,8 +25,8 @@ We need AWS credits to use EC2 Spot or On-Demand instances: p3.16xlarge or p3dn.
 
 We plan to run 1-2 trainings per month, computation costs only will be around 713.15 USD:
 ```
-Operating system (Linux), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (500 GB), 
-Snapshot Frequency (No snapshot storage), Workload (Monthly, Baseline: 0, Peak: 2, Duration of peak: 2 Day 0 Hr 0 Min), 
+Operating system (Linux), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (500 GB),
+Snapshot Frequency (No snapshot storage), Workload (Monthly, Baseline: 0, Peak: 2, Duration of peak: 2 Day 0 Hr 0 Min),
 Data transfer cost (0), Advance EC2 instance (p3.16xlarge), Pricing strategy (Spot)
 ```
 

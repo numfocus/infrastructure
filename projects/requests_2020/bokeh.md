@@ -24,7 +24,7 @@ It has been in the ~1800 USD/yr including the stabilizd traffic from JHU  Bokeh 
 
 1. Are any of these needs particularly urgent or important? If so, please explain.
 
-We would like to invest time to implement more automation/chat-ops around our CI and releases to reduce the time burden on maintainers for these tasks. 
+We would like to invest time to implement more automation/chat-ops around our CI and releases to reduce the time burden on maintainers for these tasks.
 
 7. Additional Comments:
 
