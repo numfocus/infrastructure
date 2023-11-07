@@ -1,18 +1,22 @@
-# Blosc Server Request
+====================
+Blosc Server Request
+====================
 
-## Project Details
+Project Details
+---------------
 
-Name: blosc
-Website: https://blosc.org/
+Name: blosc Website: https://blosc.org/
 
+Request April 2020
+------------------
 
-## Request April 2020
+Requester
+~~~~~~~~~
 
-### Requester
+-  Francesc Alted faltet@gmail.com
 
-- Francesc Alted <faltet@gmail.com>
-
-### Request Details
+Request Details
+~~~~~~~~~~~~~~~
 
 1. Please provide a brief description of your project's specific needs for AWS credits:
 

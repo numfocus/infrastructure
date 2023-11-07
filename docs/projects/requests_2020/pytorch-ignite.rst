@@ -1,20 +1,24 @@
-# PyTorch-Ignite Server Request
+=============================
+PyTorch-Ignite Server Request
+=============================
 
-## Project Details
+Project Details
+---------------
 
 Name: PyTorch-Ignite
 
 Website: https://pytorch.org/ignite
 
+Request September 2020
+----------------------
 
-## Request September 2020
+Requester
+~~~~~~~~~
 
-### Requester
+-  Victor Fomin vfdev.5@gmail.com
 
-- Victor Fomin <vfdev.5@gmail.com>
-
-### Request Details
-
+Request Details
+~~~~~~~~~~~~~~~
 
 1. Please provide a brief description of your project's specific needs for AWS credits:
 
@@ -24,11 +28,12 @@ We need AWS credits to use EC2 Spot or On-Demand instances: p3.16xlarge or p3dn.
 2. Please provide us with an estimated cost for meeting those needs (in U.S. Dollars):
 
 We plan to run 1-2 trainings per month, computation costs only will be around 713.15 USD:
-```
-Operating system (Linux), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (500 GB),
-Snapshot Frequency (No snapshot storage), Workload (Monthly, Baseline: 0, Peak: 2, Duration of peak: 2 Day 0 Hr 0 Min),
-Data transfer cost (0), Advance EC2 instance (p3.16xlarge), Pricing strategy (Spot)
-```
+
+::
+
+   Operating system (Linux), Storage for each EC2 instance (Provisioned IOPS SSD (io1)), Storage amount (500 GB),
+   Snapshot Frequency (No snapshot storage), Workload (Monthly, Baseline: 0, Peak: 2, Duration of peak: 2 Day 0 Hr 0 Min),
+   Data transfer cost (0), Advance EC2 instance (p3.16xlarge), Pricing strategy (Spot)
 
 3. Are any of these needs particularly urgent or important? If so, please explain.
 
