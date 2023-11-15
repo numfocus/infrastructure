@@ -1,0 +1,52 @@
+[tool.black]
+line-length = 120
+target-version = ['py39']
+
+[tool.isort]
+profile = "black"
+line_length = 120
+length_sort = "False"
+length_sort_sections = "stdlib"
+
+[tool.ruff]
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+target-version = "py39"
+line-length = 120
+exclude=[
+    ".git,",
+    "__pycache__",
+    "build",
+    "tools/**",
+    ".history",
+]
+select = [
+       "E",
+       "F",
+       "W",
+       "UP",
+       "PT",
+       "RET",
+       "TID",
+       "PLE",
+       "NPY",
+       "RUF",
+       "PGH",
+       "PTH",
+       "BLE",
+       "FBT",
+       "B",
+       "A",
+       "COM",
+       "C4",
+       "T20",
+       "RSE",
+       "ERA",
+]
+
+[tool.ruff.pydocstyle]
+convention = "numpy"
+
+[tool.codespell]
+skip = "*cache*,*egg*,*extern*,.git,.idea,.tox,_build,*truncated,*.svg,.history"
+ignore-words-list = "sav,"
