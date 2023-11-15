@@ -1,0 +1,22 @@
+name: Project Requests
+description: Infrastructure request for NumFOCUS project
+labels: [Benchmarks]
+
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: >
+        Please provide what NumFOCUS sponsored project you represent
+    validations:
+      required: true
+
+  - type: textarea
+    id: observations
+    attributes:
+      label: Observations
+      description: >
+        Please let us know if there is any other information you'd like to provide
+    validations:
+      required: true
