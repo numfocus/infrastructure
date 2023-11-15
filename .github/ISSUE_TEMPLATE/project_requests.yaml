@@ -1,6 +1,6 @@
 name: Project Requests
 description: Infrastructure request for NumFOCUS project
-labels: [Benchmarks]
+labels: [request]
 
 body:
   - type: input
