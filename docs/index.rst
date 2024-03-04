@@ -1,10 +1,10 @@
-=====================================
-numFOCUS Infrastructure Documentation
-=====================================
+=======================
+numFOCUS Infrastructure
+=======================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
    projects/index
    vendors/index

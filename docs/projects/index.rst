@@ -1,6 +1,6 @@
-=============================================
-NumFOCUS infrastructure services for Projects
-=============================================
+=====================
+Services for Projects
+=====================
 
 This document contains information on the infrastructure services NumFOCUS offers to its supported projects.
 
