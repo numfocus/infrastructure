@@ -1,6 +1,6 @@
 name: Project Requests
-description: Infrastructure request for NumFOCUS project
-labels: [request]
+description: Infrastructure request for NumFOCUS project that doesn't fit in other categories
+labels: ["Request - Other"]
 
 body:
   - type: input
