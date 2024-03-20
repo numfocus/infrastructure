@@ -39,12 +39,8 @@ The following template should be used for the review:
 
   ## Review Comments (If any)
 
-Appeal Process
---------------
-
-In the cases where project members feel that their issue was unfairly closed, there will be no appeals process.
-
 Reporting to the Board
 ----------------------
 
-Updates on all project requests that were denied will be given to the board to ensure that the infrastructure committee is not rejecting valid requests.
+The infrastructure committee provides quarterly reports of our requests and results.
+The committee strives to fulfill every request made, but in the event that a request is denied due to lack of resources, we can petition the board to fund more resources.
