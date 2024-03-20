@@ -1,6 +1,6 @@
 name: Benchmarks
 description: Request running your project benchmarks in stable hardware provided by NumFOCUS
-labels: [Benchmarks]
+labels: ["Request - Benchmarks"]
 
 body:
   - type: input
@@ -9,6 +9,24 @@ body:
       label: Project
       description: >
         Please provide what NumFOCUS sponsored project you represent
+    validations:
+      required: true
+
+  - type: textarea
+    id: hardware_requirements
+    attributes:
+      label: Hardware Requirements
+      description: >
+        Please let us know what hardware requirements you need for running your benchmarks
+    validations:
+      required: true
+
+  - type: textarea
+    id: cost_estimation
+    attributes:
+      label: Cost Estimation
+      description: >
+        Please let us know if you have any cost estimation for running your benchmarks
     validations:
       required: true
 

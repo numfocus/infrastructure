@@ -1,3 +1,6 @@
+# Running prettier
+node_modules/
+
 # VScode
 .history
 .vscode/settings.json

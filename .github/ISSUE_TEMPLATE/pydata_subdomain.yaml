@@ -1,6 +1,6 @@
 name: PyData Subdomain
 description: Request a <subdomain>.pydata.org for your project website, docs...
-labels: [PyData Subdomain]
+labels: ["Request - PyData subdomain"]
 
 body:
   - type: input

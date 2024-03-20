@@ -1,6 +1,6 @@
 name: Static Hosting
 description: Request static hosting for your project website, docs...
-labels: [Static Hosting]
+labels: ["Request - Static Hosting"]
 
 body:
   - type: input

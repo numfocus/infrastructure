@@ -1,6 +1,6 @@
 name: Custom domain
-description: Request a custom domain managed by NumFOCUS for your project website, docs...
-labels: [Custom Domain]
+description: Request a custom domain managed by NumFOCUS for your project website, docs etc
+labels: ["Request - Custom Domain"]
 
 body:
   - type: input

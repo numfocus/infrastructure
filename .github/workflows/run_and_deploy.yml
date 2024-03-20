@@ -3,7 +3,7 @@ name: Run and Deploy
 on:
   push:
     branches:
-      - 'main'
+      - "main"
   pull_request:
   # Allow manual runs through the web UI
   workflow_dispatch:
@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
       - name: Install dependencies
         run: |
           python -m pip install tox
@@ -37,7 +37,7 @@ jobs:
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
       - name: Install dependencies
         run: |
           python -m pip install tox
@@ -54,30 +54,30 @@ jobs:
   deploy:
     needs: [build_docs]
     if: |
-       (
-         github.event_name != 'pull_request' && (
-         github.ref_name == 'main' ||
-         github.event_name == 'workflow_dispatch'
-         )
-       )
+      (
+        github.event_name != 'pull_request' && (
+        github.ref_name == 'main' ||
+        github.event_name == 'workflow_dispatch'
+        )
+      )
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
-    - name: Get current date
-      id: date
-      run: echo "::set-output name=date::$(date +'%Y%m%d')"
-    - name: Download all workflow run artifacts
-      uses: actions/download-artifact@v4
-      with:
-        name: files
-        path: ~/files
-    - name: Display structure of downloaded files
-      run: ls -R
-      working-directory: /home/runner/files
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.infra_automation }}
-        publish_dir: "/home/runner/files"
-        force_orphan: true
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y%m%d')"
+      - name: Download all workflow run artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: files
+          path: ~/files
+      - name: Display structure of downloaded files
+        run: ls -R
+        working-directory: /home/runner/files
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.infra_automation }}
+          publish_dir: "/home/runner/files"
+          force_orphan: true
