@@ -5,7 +5,7 @@ repos:
       - id: docformatter
         args: [--in-place, --pre-summary-newline, --make-summary-multi]
   - repo: https://github.com/myint/autoflake
-    rev: v2.3.0
+    rev: v2.3.1
     hooks:
       - id: autoflake
         args:
@@ -15,12 +15,12 @@ repos:
             "--remove-unused-variable",
           ]
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: "v0.3.0"
+    rev: "v0.3.3"
     hooks:
       - id: ruff
         args: ["--fix"]
   - repo: https://github.com/psf/black
-    rev: 24.2.0
+    rev: 24.3.0
     hooks:
       - id: black
   - repo: https://github.com/PyCQA/isort

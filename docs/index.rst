@@ -3,9 +3,10 @@ numFOCUS Infrastructure
 =======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents
 
+   charter
    review_process
    projects/index
    vendors/index
