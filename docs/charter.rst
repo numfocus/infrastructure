@@ -6,6 +6,7 @@ The Project Infrastructure Committee is established under Article 5, Sections 1-
 
 Purpose
 =======
+
 To assist NumFOCUS in facilitating the Fiscal Sponsorship and Affiliation program by overseeing the technical aspects of digital infrastructure available to our Projects.
 Digital infrastructure includes but is not limited to:
 
