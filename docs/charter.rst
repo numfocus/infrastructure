@@ -88,3 +88,4 @@ Officers and Members
 * Vice-President: Andy R. Terrel
 * Secretary: Nabil Freij
 * Members: Katrina Riehl, Irfan Alibay, Mridul Seth,
+* Observing Members: Nicole Foster, Matt Moore, Arliss Collins
