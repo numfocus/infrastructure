@@ -1,7 +1,7 @@
 from datetime import datetime
 
-author = "numFOCUS Infrastructure Team"
-project = "Project Infrastructure"
+author = "numFOCUS Infrastructure Committee"
+project = "numFOCUS Project Infrastructure"
 release = ""
 copyright = f"{datetime.now().year}, {author}"  # NOQA: A001
 html_theme = "pydata_sphinx_theme"

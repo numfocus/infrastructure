@@ -1,0 +1,84 @@
+************
+Oct 23, 2023
+************
+
+* Attendees
+  - Andy Terrel, Irfan Alibay, Nabil Freij
+* Observing
+  - Nicole Foster, Matt Moore
+* Apologies
+  - Katrina Riehl
+
+Agenda
+======
+
+* Intros
+* Charter
+* Audit Docs
+
+Notes
+=====
+
+Introductions
+
+Matt contracted to do devops types of work at NF.
+
+Charter
+-------
+
+Changes to the charter needed:
+
+- Need to change the people (add Andy & Nabil & Katrina)
+- Elect a Vice President and Secretary
+- Do a proposal for positions & send through to everyone
+- Current proposal: Andy as VP and Nabil as Secretary
+
+Proposal
+--------
+
+Proposal for changing the charter.
+The original charter includes
+
+1. Administer infrastructure account credentials and access;
+2. Make ongoing recommendations and execute changes to improve and enhance available infrastructure
+3. Act as a liaison between the infrastructure vendors and sponsored projects and
+4. Review its charter annually and recommend changes to the board for review
+
+New wording
+
+1. Advise NF staff infrastructure team on how to administer account credentials and access
+2. Make ongoing recommendations to improve and enhance available infrastructure
+3. Act as a liaison between sponsored projects between the NF Infrastructure Staff, (who works with  vendors) and have a representative at monthly project meetings, triage new request, e.g., is a request a common need or one off.
+   Present best practices from various projects etc
+4. Review its charter annually and recommend changes to the board for review
+
+Proposed by Andy, Second by Irfan, approved unanimously.
+
+Where to document best practices?
+
+Proposal: github.com/numfocus/infrastructure
+
+Make a sphinx base webpage to be hosted via (GitHub pages)
+
+No vote needed
+
+Audit
+-----
+
+Andy and Matt to go through audit to see what is running
+
+Nabil to start the documentation going.
+Committee to review in Nov meeting.
+
+Where to publish notes:
+GitHub documentation pages that Nabil is setting up.
+Redact names of projects if sensitive before pushing to GitHub.
+
+Action items
+============
+
+- Andy Terrel to draft new charter based on vote above, send out to Mridul and Katrina for e-vote
+- Nabil Freij make documentation mvp
+- Andy Terrel and Matt Moore to go through infrastructure inventory
+- Nicole Foster Send out meeting invite
+- Nicole Foster to upgrade Nabil Freij's slack account to add to infrastructure
