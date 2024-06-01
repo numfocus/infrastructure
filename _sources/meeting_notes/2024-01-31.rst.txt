@@ -1,0 +1,30 @@
+************
+Jan 31, 2024
+************
+
+* Attendees
+  - Andy Terrel, Irfan Alibay, Nabil Freij, Matt Moore, Katrina Riehl
+* Observing
+  - Nicole Foster, Arliss Collins
+* Apologies
+  - Mridul Seth
+
+Notes
+=====
+
+SDG Infrastructure - Proposals 2022 & 2023
+
+Consensus on asking $X for building a proof of concept benchmark service.
+
+Investigate paying Anaconda.org for more space.
+
+Check on the "Access control improvements for opt-in CI (Continuous Integration) services", email Felipe.
+
+2024 Proposed Infrastructure Budget - draft
+
+Action items
+============
+- Implement Managing Infrastructure Requests Nabil Freij
+- Setup GitHub Actions to process notifications
+- Create a review rotation
+- Next meeting Feb 21 10:30 AM Central Time

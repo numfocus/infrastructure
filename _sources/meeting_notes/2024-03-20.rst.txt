@@ -1,0 +1,47 @@
+************
+Mar 20, 2024
+************
+
+* Attendees
+  - Irfan Alibay, Nabil Freij, Andy Terrel, Katrina Riehl, Mridul Seth
+* Observing
+  - Nicole Foster, Matt Moore
+* Apologies
+  - Arliss Collins
+
+Notes
+=====
+
+Budgets
+-------
+
+Full 2024 Proposed Infrastructure Budget- draft approved
+
+Additionally move currently infrastructure role to full time
+
+Charged with Corporate infrastructure (Email, tickets, desktop support)
+
+Head CI/CD platform
+-------------------
+
+nicole@numfocus.org to send out job description for new role
+
+Next steps for CI/CD platform: some preliminary issues that asked for the issues
+
+- https://github.com/numfocus/infrastructure/issues/20
+- https://github.com/numfocus/infrastructure/issues/22
+
+Host a project small group with folks who have been requesting and validate the need.
+
+Reviewed infra tickets and Open PRS
+
+- https://docs.google.com/document/d/1WnlSc-PwGEHrp-uf6O4VyhmSZUuuz82YW2pA2YRR3qg/edit#heading=h.fy47wzqz8vdz
+- https://github.com/numfocus/infrastructure/issues
+- https://github.com/numfocus/infrastructure/pull/31
+- https://github.com/numfocus/infrastructure/pull/33
+
+Action items
+============
+
+- Andy Terrel to reach out to the projects who are asking for early access for CI/CD
+- Create a scoping document to be sent to the committee.

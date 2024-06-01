@@ -1,0 +1,32 @@
+************
+Dec 12, 2023
+************
+
+* Attendees
+  - Irfan Alibay Nabil Freij
+* Observing
+  - Nicole Foster
+* Apologies
+  - Arliss Collins, Andy Terrel, Mridul Seth, Matt Moore, Katrina Riehl
+
+Notes
+=====
+
+SDG Infrastructure - Proposals 2022 & 2023, it lacks information if any of the projects were funded or not.
+
+Infrastructure requests
+-----------------------
+
+How involved should the committee be?
+
+Review process for issues.
+Committee could do that.
+Can the committee help us decide what we should and should not support?
+In the past NF has agreed to support requests that aren't directly related to NF projects but as we scale, we may not have enough bandwidth.
+
+Action items
+============
+
+- Set up a mock budget for January submission (breakdown by project, select as many infrastructure projects) - Nicole Foster
+- Create a draft document about a system for reviewing and responding to project requests - Nabil Freij
+- Add information about which SDGs were funded - Nicole Foster
