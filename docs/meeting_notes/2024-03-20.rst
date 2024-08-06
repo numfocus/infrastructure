@@ -3,10 +3,15 @@ Mar 20, 2024
 ************
 
 * Attendees
+
   - Irfan Alibay, Nabil Freij, Andy Terrel, Katrina Riehl, Mridul Seth
+
 * Observing
+
   - Nicole Foster, Matt Moore
+
 * Apologies
+
   - Arliss Collins
 
 Notes
@@ -33,7 +38,7 @@ Next steps for CI/CD platform: some preliminary issues that asked for the issues
 
 Host a project small group with folks who have been requesting and validate the need.
 
-Reviewed infra tickets and Open PRS
+Reviewed infra tickets and Open PRs
 
 - https://docs.google.com/document/d/1WnlSc-PwGEHrp-uf6O4VyhmSZUuuz82YW2pA2YRR3qg/edit#heading=h.fy47wzqz8vdz
 - https://github.com/numfocus/infrastructure/issues

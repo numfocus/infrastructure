@@ -15,12 +15,12 @@ repos:
             "--remove-unused-variable",
           ]
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: "v0.3.7"
+    rev: "v0.5.6"
     hooks:
       - id: ruff
         args: ["--fix"]
   - repo: https://github.com/psf/black
-    rev: 24.4.0
+    rev: 24.8.0
     hooks:
       - id: black
   - repo: https://github.com/PyCQA/isort
@@ -38,7 +38,7 @@ repos:
       - id: check-yaml
       - id: debug-statements
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.2.6
+    rev: v2.3.0
     hooks:
       - id: codespell
         additional_dependencies:

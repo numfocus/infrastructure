@@ -3,20 +3,25 @@ Apr 17, 2024
 ************
 
 * Attendees
+
   - Katrina Riehl, Andy Terrel, Nabil Freij
 * Observing
+
   - Nicole Foster
 * Apologies
+
   - Irfan Alibay, Matt Moore
 
 Notes
 =====
 
 Create Q1 Report for the Board
- - Infrastructure Committee Report Q1 2022
- - Infrastructure Committee Report Q1 2024
+
+- Infrastructure Committee Report Q1 2022
+- Infrastructure Committee Report Q1 2024
 
 Nicole sent the NumFOCUS DevOps Engineer - Independent Contractor Job Description in Slack.
+
 Has anyone had a chance to review it?
 
 Reviewing open issues
