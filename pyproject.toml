@@ -1,6 +1,6 @@
 [tool.black]
 line-length = 120
-target-version = ['py39']
+target-version = ['py312']
 
 [tool.isort]
 profile = "black"
@@ -10,41 +10,25 @@ length_sort_sections = "stdlib"
 
 [tool.ruff]
 # Allow unused variables when underscore-prefixed.
-dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
-target-version = "py39"
+lint.dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+target-version = "py312"
 line-length = 120
-exclude=[
-    ".git,",
+extend-exclude=[
     "__pycache__",
     "build",
     "tools/**",
     ".history",
 ]
-select = [
-       "E",
-       "F",
-       "W",
-       "UP",
-       "PT",
-       "RET",
-       "TID",
-       "PLE",
-       "NPY",
-       "RUF",
-       "PGH",
-       "PTH",
-       "BLE",
-       "FBT",
-       "B",
-       "A",
-       "COM",
-       "C4",
-       "T20",
-       "RSE",
-       "ERA",
+lint.select = [
+    "ALL",
+]
+lint.extend-ignore = [
+    "D100", # Missing docstring in public module
+    "INP001", # conf.py is part of an implicit namespace package
 ]
 
-[tool.ruff.pydocstyle]
+
+[tool.ruff.lint.pydocstyle]
 convention = "numpy"
 
 [tool.codespell]
