@@ -1,0 +1,76 @@
+************
+May 21, 2024
+************
+
+* Attendees:
+
+  - Katrina Riehl, Andy Terrel, Seth Mridul, Nabil Freij
+
+* Observing:
+
+  - Nicole Foster, Arliss Collins, Claudia Alvarado, Jim Weiss
+
+* Apologies:
+
+  - Irfan Alibay, Matt Moore
+
+Notes
+=====
+
+Pretalx
+-------
+
+Marty sets up pretalx for events, proposal on the table to have it hosted by pretalx.com
+
+Reasons to do it:
+- Get our changes to the open source project
+- Less cost on our staff to manage
+- We get changes as soon as they come out
+
+Notes from Marty on changes if we make to the stock pretalx:
+
+The biggest change has been the edits to Pretalx's schedule widget (the embedded JavaScript that we insert into the conference site's schedule page to display the schedule).
+I've added more advanced filtering so that the widget can show only specific submission types (e.g. only showing talks or tutorials) or specific conference days.
+I fixed a bug where organizers were unable to change submission tracks.
+I meant to push this upstream (and even created a pull request) but missed a question about additional testing that prevented it from being merged.
+We added the ability to import reviewer assignments by CSV file (Pretalx only allowed this by JSON files).
+We modified the proposal pages for SciPy conferences so that they would include reviewer feedback.
+A custom navigation menu was added to Pretalx pages to better link the Pretalx server with conference sites.
+
+Cost
+^^^^
+
+List price from pretalx.com
+
+Pay by expected number of attendees and talks:
+
+- Large events: 1400 EUR / event
+- Small events: 900 EUR / event
+- Hosting 16 events: 16,900 EUR
+- 5 large events: 7000 EUR
+- 11 small events: 9900 EUR
+
+- Current: ~$18,400
+- Server cost is around ~$50 a month per event
+- 12 month + 4 concurrent events: $2,400
+- Contract costs: $16,000
+
+Github Issues
+-------------
+
+AWS Credits for projects
+AWS OSSM Credits Application Form.xlsx
+Decision: focus on projects we have and not go back to projects again.
+Need to have a meeting with Oliver, Ralf, Christopher Delp
+
+Scream test: https://github.com/numfocus/infrastructure/issues/12
+No complaints.
+Andy will backup the servers and then delete them.
+
+Action items
+============
+
+- Nicole with Jim to get a proposal from pretalx.com
+- Setup a call with Oliver, Ralf, Christopher Delp and Nabil, Andy, Arliss
+- Try to get previous project request information for AWS credits
+- Backup servers with DNS turned off and then delete them

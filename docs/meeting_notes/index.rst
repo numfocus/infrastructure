@@ -5,11 +5,6 @@ Meeting Notes
 .. toctree::
    :maxdepth: 1
    :caption: Contents
+   :glob:
 
-   2023-10-23
-   2023-11-15
-   2023-12-20
-   2024-01-23
-   2024-01-31
-   2024-03-20
-   2024-04-17
+   *
