@@ -1,0 +1,90 @@
+************
+Aug 02, 2024
+************
+
+* Attendees:
+
+  - Seth Mridul, Nabil Freij
+
+* Observers:
+
+  - Nicole Foster, Arliss Collins
+
+* Apologies:
+
+  - Andy Terrel, Katrina Riehl, Irfan Alibay, Matt Moore, Claudia Alvarado
+
+Notes
+=====
+
+Summit:
+
+- Program committee is working an introduction of all committees into the plenary sessions with a set unconference session
+- Start thinking about any specific items to address with projects
+
+Pretalx account follow up:
+
+- Can the committee start the conversation?
+
+  - Andy: I think we can certainly start conversations and get proposals but don’t have signatory power
+  - Mridul: can we just help nudge it along
+  - Need to review spend for PyData sites on AWS and Rackspace
+  - Need to review current setup and conversion to static site costs
+
+Nicole - Cost of hosting for Pretalx:
+
+- Unclear how much we are paying for our own version we host.
+  The Static sites are pretty expensive
+  - It's possible the new devdeps person can take on that load and it might be a cheaper solution.
+  - Worry that the custom code from Mate would not be allowed but they are very happy to accept the code upstream.
+- List price from pretalx.com (Estimate from older notes)
+
+  - Pay by expected number of attendees and talks:
+
+    - Large events: 1400 EUR / event
+    - Small events: 900 EUR / event
+
+  - Hosting 16 events: 16,900 EUR
+
+    - 5 large events: 7000 EUR
+    - 11 small events: 9900 EUR
+
+- Current: ~$18,400
+
+  - Server cost is around ~$50 a month per event
+
+    - 12 month + 4 concurrent events: $2,400
+
+  - Dev Time - $16,000
+
+Meetings with project leads regarding CI/CD:
+
+- Met with Ralf from NumPy and Oliver from MDAnalysis
+
+Interview process for new devops role:
+
+- Andy, Mridul and Nabil are given access to the recruiter platform.
+- Committee sees opportunity to improve the process for the new hire
+- Clarify the committee role
+
+  - Would like to have input on the hire
+  - Can help sort resumes
+  - Do we have a veto on candidates?
+
+    - If we have problems with them, then yes.
+
+Action items
+============
+
+- Create a Google Forms survey which details: Nabil Freij
+
+  - What CI services are using currently and what architectures do you use on them?
+  - Do they need paid services? If so, what ones and how much (rough estimate)?
+  - What architectures do you want to run on?
+
+- Move the proposal for CI/CD guide to discussions Andy Terrel
+
+  - Generate sphinx skeleton Nabil Freij
+  - Start writing base guide Andy Terrel
+
+- Filter more resumes on linkedin Andy Terrel,  Seth Mridul, Nabil Freij
