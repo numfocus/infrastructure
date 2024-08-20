@@ -9,5 +9,6 @@ numFOCUS Project Infrastructure
    charter
    meeting_notes/index
    review_process
+   ci_cd_guide/index
    projects/index
    vendors/index
