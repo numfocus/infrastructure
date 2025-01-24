@@ -1,0 +1,29 @@
+# Allow unused variables when underscore-prefixed.
+lint.dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+target-version = "py313"
+line-length = 120
+extend-exclude=[
+    "__pycache__",
+    "build",
+    "tools/**",
+]
+lint.extend-select = [
+    "ALL",
+]
+lint.extend-ignore = [
+]
+
+[lint.per-file-ignores]
+"docs/conf.py" = [
+    "D100", # Missing docstring in public module
+    "INP001", # conf.py is part of an implicit namespace package
+]
+
+[lint.pydocstyle]
+convention = "numpy"
+
+[format]
+docstring-code-format = true
+docstring-code-line-length = 80
+indent-style = "space"
+quote-style = "double"

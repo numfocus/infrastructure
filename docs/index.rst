@@ -1,5 +1,5 @@
 ===============================
-numFOCUS Project Infrastructure
+NumFOCUS Project Infrastructure
 ===============================
 
 .. toctree::
@@ -7,6 +7,7 @@ numFOCUS Project Infrastructure
    :caption: Contents
 
    charter
+   membership
    meeting_notes/index
    review_process
    ci_cd_guide/index

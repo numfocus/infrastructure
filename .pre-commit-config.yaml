@@ -1,34 +1,17 @@
 repos:
-  - repo: https://github.com/myint/docformatter
-    rev: v1.7.5
+  - repo: https://github.com/PyCQA/docformatter
+    rev: eb1df347edd128b30cd3368dddc3aa65edcfac38
     hooks:
       - id: docformatter
         args: [--in-place, --pre-summary-newline, --make-summary-multi]
-  - repo: https://github.com/myint/autoflake
-    rev: v2.3.1
-    hooks:
-      - id: autoflake
-        args:
-          [
-            "--in-place",
-            "--remove-all-unused-imports",
-            "--remove-unused-variable",
-          ]
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: "v0.6.1"
+    rev: "v0.9.3"
     hooks:
       - id: ruff
-        args: ["--fix"]
-  - repo: https://github.com/psf/black
-    rev: 24.8.0
-    hooks:
-      - id: black
-  - repo: https://github.com/PyCQA/isort
-    rev: 5.13.2
-    hooks:
-      - id: isort
+        args: ["--fix", "--unsafe-fixes"]
+      - id: ruff-format
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: check-ast
       - id: check-case-conflict
@@ -37,13 +20,11 @@ repos:
       - id: end-of-file-fixer
       - id: check-yaml
       - id: debug-statements
-  - repo: https://github.com/codespell-project/codespell
-    rev: v2.3.0
-    hooks:
-      - id: codespell
-        additional_dependencies:
-          - tomli
-  - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v4.0.0-alpha.8
+  - repo: https://github.com/JoC0de/pre-commit-prettier
+    rev: v3.4.2
     hooks:
       - id: prettier
+  - repo: https://github.com/crate-ci/typos
+    rev: dictgen-v0.3.1
+    hooks:
+      - id: typos

@@ -1,6 +1,6 @@
-****************************************
-Project Infrastructure Committee Charter
-****************************************
+*****************
+Committee Charter
+*****************
 
 The Project Infrastructure Committee is established under Article 5, Sections 1-2 of the NumFOCUS Bylaws.
 
@@ -12,6 +12,8 @@ Digital infrastructure includes but is not limited to:
 
 - Cloud accounts and credits
 - Domain registrations and hosting
+- Conference management software
+- CI/CD documentation and best practices
 
 Mission
 =======
@@ -24,7 +26,7 @@ The Committee will:
 - Make ongoing recommendations to improve and enhance available infrastructure
 - Act as a liaison between sponsored projects and the NF Infrastructure Staff, (who works with vendors)
 - Have a representative at monthly project meetings
-- Triage new request, e.g. is a request a common need or one off
+- Triage new request, e.g., is a request a common need or one off?
 - Present best practices from various projects
 - Review its charter annually and recommend changes to the board for review
 
@@ -44,7 +46,7 @@ Membership will reflect the NumFOCUS Diversity Statement by welcoming and encour
 The committee will consist of at least 5 members from NumFOCUS at-large community, with the following constraints:
 
 - 1 member is a project contributor to a NumFOCUS sponsored project
-- No 2 members are related in employment or NumFOCUS project leadership committee
+- No more than 2 members are related in employment or NumFOCUS project leadership committee
 - 1 member is a NumFOCUS Staff member
 
 Officers
@@ -63,9 +65,9 @@ The secretary will be elected by the committee's members.
 Terms
 ^^^^^
 
-Committee members will serve a one-year term, at which time they will have the option for unlimited renewals.
-The Vice President will serve a one-year term with the option to renew for one additional term.
-The Secretary will serve a one-year term with the option to renew for one additional term.
+Committee members will serve a two-year term, at which time they will have the option for unlimited renewals.
+The Vice President will serve a two-year term with the option to renew for one additional term.
+The Secretary will serve a two-year term with the option to renew for one additional term.
 
 Meetings
 ========
@@ -78,15 +80,4 @@ Record Keeping and Reporting
 
 All committee records will be kept in https://github.com/numfocus/infrastructure
 
-A report on the state of project digital infrastructure including all committee actions will be submitted to the board of directors quarterly on or before the 15th of March, June, September, and December.
-
-Officers and Members
-====================
-
-2023-2024 Term
----------------
-
-* Vice-President: Andy R. Terrel
-* Secretary: Nabil Freij
-* Members: Katrina Riehl, Irfan Alibay, Mridul Seth,
-* Observing Members: Nicole Foster, Matt Moore, Arliss Collins
+A annual report on the state of project digital infrastructure including all committee actions will be submitted to the board of directors before the 15th of January.

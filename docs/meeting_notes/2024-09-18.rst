@@ -1,0 +1,58 @@
+************
+Sep 18, 2024
+************
+
+* Attendees:
+
+  - Andy Terrel, Nabil Freij
+
+* Observers:
+
+  - Nicole Foster, Claudia Alvarado
+
+* Apologies:
+
+  - Katrina Riehl, Irfan Alibay, Matt Moore, Arliss Collins, Seth Mridul
+
+
+Notes
+=====
+
+IT DevOps Candidates
+--------------------
+
+- DevOps Candidates Tracker
+- Go forward with one candidate for one final interview
+
+ * Andy will do the interview
+
+Rackspace Billing
+-----------------
+
+- 3 machines for conferences had networking turned off and no one said anything
+
+ * Machines will hopefully be deleted
+
+- Need to check with Marty about if the machines have been backed up
+- Several projects or conferences have machines in Rackspace
+
+ * Need to contact the relevant parties to check if they are still being used
+
+- New NumFOCUS account added
+- Bill is around $600 a month
+
+Action Items
+------------
+
+- Claudia: Contact Addo about final interview with Andy
+- Andy:
+
+ * Call Marty to check which Rackspace servers he needs before deleting anything
+ * Claudia will ask Jim if Andy can join Marty's weekly check-in
+ * Call Tom about pandas
+
+- Claudia: Ask Jim about PyData Berlin and let Andy know
+- Nabil:
+
+ * Upload notes to repo
+ * Create a list of items to discuss at the next meeting based on the summit BOF
