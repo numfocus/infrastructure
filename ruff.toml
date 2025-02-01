@@ -11,6 +11,7 @@ lint.extend-select = [
     "ALL",
 ]
 lint.extend-ignore = [
+    "COM812", # May cause conflicts when used with the formatter
 ]
 
 [lint.per-file-ignores]
