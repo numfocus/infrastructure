@@ -2,7 +2,7 @@
 Committee Charter
 *****************
 
-The Project Infrastructure Committee is established under Article 5, Sections 1-2 of the NumFOCUS Bylaws.
+The Infrastructure Committee is established under Article 5, Sections 1-2 of the NumFOCUS Bylaws.
 
 Purpose
 =======
@@ -18,7 +18,7 @@ Digital infrastructure includes but is not limited to:
 Mission
 =======
 
-The Project Infrastructure Committee will manage project digital infrastructure in a way that is fair, equitable, and supports long-term sustainability and project development.
+The Infrastructure Committee will manage project digital infrastructure in a way that is fair, equitable, and supports long-term sustainability and project development.
 
 The Committee will:
 

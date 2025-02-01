@@ -1,6 +1,6 @@
-******************************
-Paying for CI/CD with NumFOCUS
-******************************
+****************
+Paying for CI/CD
+****************
 
 This guide is intended to help you set up a CI/CD pipeline for your project and get it paid for by NumFOCUS.
 
