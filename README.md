@@ -12,3 +12,4 @@ Main sections:
 ## Contact
 
 [To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
+Test only
