@@ -11,7 +11,7 @@ html_logo = "_static/NumFocus_LRG.png"
 html_favicon = "_static/NumFocus_LRG.png"
 html_theme_options = {
     "logo": {
-    	"text": "Project Infrastructure",
+        "text": "Project Infrastructure",
         "image_light": "_static/NumFocus_LRG.png",  # For light mode
         "image_dark": "_static/NumFocus_LRG.png",   # For dark mode
     }
