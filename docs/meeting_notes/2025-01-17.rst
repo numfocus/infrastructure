@@ -1,0 +1,46 @@
+************
+Jan 17, 2025
+************
+
+* Attendees:
+
+  - Andy Terrel, Seth Mridul, Nabil Freij
+
+* Observers:
+
+  -  Addo Davies Jr., Nicole Foster, Claudia Alvarado, Arliss Collins
+
+* Apologies:
+
+  - Irfan Alibay
+
+Notes
+=====
+
+- Addo completed audit of NumFOCUS resources
+
+  * Covered: AWS, servers, domain names
+  * Gaps: Missing project contact data
+  * Action: Identify used/unused domains
+
+- Pretalx Centralization
+
+  * Contracts signed
+  * Software configured
+  * Next major PyData event to use new system
+
+- NumFOCUS ACCESS
+
+  * Recommendation: Investigate
+  * Operational details
+  * Collaboration with original author
+
+- Explore evening UTC time for Irfran
+
+ * Preferred: After 6 PM UTC
+
+Action Items
+============
+
+- Nabil: Email Alexandru Mahmoud (NumFOCUS ACCESS)
+- Determine new meeting times

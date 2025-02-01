@@ -1,4 +1,4 @@
-name: Run and Deploy
+name: Test and Deploy
 
 on:
   push:
@@ -18,10 +18,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Set up Python 3.12
+      - name: Set up Python 3.13
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.13"
       - name: Install dependencies
         run: |
           python -m pip install tox
@@ -34,10 +34,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Set up Python 3.12
+      - name: Set up Python 3.13
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.13"
       - name: Install dependencies
         run: |
           python -m pip install tox
@@ -52,7 +52,7 @@ jobs:
             /home/runner/work/infrastructure/infrastructure/docs/_build/html/*
 
   deploy:
-    needs: [build_docs]
+    needs: [check_style, build_docs]
     if: |
       (
         github.event_name != 'pull_request' && (
