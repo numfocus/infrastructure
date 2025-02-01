@@ -7,3 +7,6 @@ node_modules/
 
 # Sphinx documentation
 docs/_build
+
+# Mac OS env
+*.DS_Store
