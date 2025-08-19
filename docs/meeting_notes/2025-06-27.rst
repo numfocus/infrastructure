@@ -1,0 +1,46 @@
+*************
+June 27, 2025
+*************
+
+* Attendees:
+
+  - Andy Terdrel, Benjamin Leff, Nabil Freij
+
+* Observers:
+
+  -  Addo Davies Jr., Nicole Foster, Kari Hall
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridulm, Smit Lunagariya, Arliss Collins, Claudia Alvarado
+
+Agenda
+======
+
+- Decide on who should be the secretary and chair of the committee.
+- Decide on the outcome of application for the new committee member.
+- Progress on github teams cleanup?
+- Need to start up efforts again to create the guide on how to tell projects to pay for CI/CD from the last numFOCUS summit.
+- Do we have any updates on ACCESS?
+- Charter review from the new members?
+- Anything else?
+
+Notes
+=====
+
+- Addo gained access to the AWS instances.
+- He created a helper function to add ssh keys to all servers.
+- Addo and Nabil still need access to ACCESS to help Alex manage the resources.
+- Juan was added to the meeting but he lives in Australia.
+- Do we need to reschedule the committee meeting?
+- Servers are still being looked at and shutdown where possible and data archived.
+- Pretalx AWS Instances
+- Github permissions cleanup is still in progress.
+
+Action items
+============
+
+- Upload meeting notes to repo
+- Create a report for the board
+- Create an issue template for ACCESS to help Alex manage on https://github.com/numfocus/infrastructure
+- Addo - Email Irfan Alibay about benchmarking issues.
