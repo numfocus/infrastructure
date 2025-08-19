@@ -5,13 +5,13 @@ repos:
       - id: docformatter
         args: [--in-place, --pre-summary-newline, --make-summary-multi]
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: "v0.12.1"
+    rev: "v0.12.9"
     hooks:
       - id: ruff
         args: ["--fix", "--unsafe-fixes"]
       - id: ruff-format
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-ast
       - id: check-case-conflict
@@ -21,10 +21,10 @@ repos:
       - id: check-yaml
       - id: debug-statements
   - repo: https://github.com/JoC0de/pre-commit-prettier
-    rev: v3.5.3
+    rev: v3.6.2
     hooks:
       - id: prettier
-  - repo: https://github.com/crate-ci/typos
-    rev: v1
+  - repo: https://github.com/adhtruong/mirrors-typos
+    rev: v1.35.5
     hooks:
       - id: typos

@@ -1,14 +1,14 @@
 Membership
 ==========
 
-Below we list each yearly term of the Infrastructure Committee.
+Below we list each term of the Infrastructure Committee and its members.
 
 2025-2027 Term
 --------------
 
 * Vice-President: TBD
 * Secretary: TBD
-* Members: Andy R. Terrel, Irfan Alibay, Mridul Seth, Nabil Freij
+* Members: Andy R. Terrel, Irfan Alibay, Mridul Seth, Nabil Freij, Benjamin Leff, Smit Lunagariya
 * Observing Members: Addo Davies Jr., Claudia Alvarado, Nicole Foster, Arliss Collins
 
 2024-2025 Term
