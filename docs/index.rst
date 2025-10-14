@@ -1,6 +1,6 @@
-=================================
+*********************************
 NumFOCUS Infrastructure Committee
-=================================
+*********************************
 
 This site details the activities and governance of the NumFOCUS Infrastructure Committee.
 
