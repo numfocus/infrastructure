@@ -3,6 +3,7 @@ Committee Charter
 *****************
 
 The Infrastructure Committee is established under Article 5, Sections 1-2 of the NumFOCUS Bylaws.
+It is overseen by the Technical Steering Committee.
 
 Purpose
 =======

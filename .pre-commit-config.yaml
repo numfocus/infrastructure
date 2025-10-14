@@ -5,7 +5,7 @@ repos:
       - id: docformatter
         args: [--in-place, --pre-summary-newline, --make-summary-multi]
   - repo: https://github.com/charliermarsh/ruff-pre-commit
-    rev: "v0.12.9"
+    rev: "v0.14.0"
     hooks:
       - id: ruff
         args: ["--fix", "--unsafe-fixes"]
@@ -25,6 +25,6 @@ repos:
     hooks:
       - id: prettier
   - repo: https://github.com/adhtruong/mirrors-typos
-    rev: v1.35.5
+    rev: v1.38.1
     hooks:
       - id: typos
