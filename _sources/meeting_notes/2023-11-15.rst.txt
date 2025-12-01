@@ -1,0 +1,99 @@
+************
+Nov 15, 2023
+************
+
+* Attendees
+
+  - Andy Terrel, Irfan Alibay, Nabil Freij
+
+* Observing
+
+  - Nicole Foster, Arliss Collins
+
+* Apologies
+
+  - Katrina Riehl, Matt Moore, Mridul Seth
+
+Notes
+=====
+
+Approval of last month's minutes
+--------------------------------
+
+Pending Actions:
+
+Andy Terrel and Matt Moore to go through infrastructure inventory
+E-vote on the new charter with Katrina and Mridul
+Approved unanimously
+
+New Charter
+-----------
+
+https://docs.google.com/document/d/1hzaB_DAGAUdKnfI_x0ktcO6Zf1iP1Er1BtWrpo35LNM/edit
+Still need to talk to Katrina and Mridul
+
+Docs Deploy
+-----------
+
+https://github.com/numfocus/infrastructure/pull/18/
+Merge approved so we can render
+
+To do
+
+- Need to get a NF deploy key
+- Folks should review rendered version: https://numfocus.github.io/infrastructure/ (PR needs to be merged for the render to update, right now it's blank)
+
+Project Infrastructure Involvement
+----------------------------------
+
+How do projects fund infrastructure?
+
+MDAnalysis had an SDG rejection, for a funding requested access to paid CI resources (macos-arm64 runners and large core count runners).
+The response for the paid CI part of the grant was "SDG funds are not typically granted for ongoing expenses where projects will have to come back next year".
+This isn't the first time this has happened (
+At the NF Project meeting many projects requested CI/CD resources (osx-arm64, gpus, window-arm)
+There is no guidance within NF as to what projects are meant to do about this - we're effectively left with a "not our problem" response without really being told whose problem it is.
+The SDG committee had clearly signposted this problem to us, that way we had a formal request from someone, rather than finding out through second hand feedback.
+
+Does on-going funds on-going infrastructure?
+
+No. We should recommend updates to the application process
+SDG should share infrastructure requests (summarized version) that were rejected.
+
+NF Infrastructure Budget
+-------------------------
+
+NF Infra should make a Budget Request to the Board of Directors
+We can campaign for funds from the general NF budget, project budgets, or raise specific funds for Infrastructure
+Get projects to use issues on the infra repo to document their needs.
+Advertise it to the projects.
+GPU CI/CD
+Pinged a lot from many projects
+Github Actions
+Private beta starting now for paid accounts but public beta in a few months. They need help justifying the use of Azure GPU machines for CI/CD purposes
+
+Recommend we write a letter on how impactful GPU Hosted Runners will be to our projects
+Use case
+Projects
+Scikit-learn - Arlliss has already talked to Adrin about providing this.
+Cupy
+dask
+Reach out to other organizations
+OpenMM & OMSF - @irfan
+Linux foundation?
+CSS?
+Impact to the community
+Quansight GPU Cluster
+Iterate on their terms of service
+
+Next meeting time: December 20th, 10:30 CT
+
+Action items
+============
+
+- Get requests from SDG - Nicole Foster
+- Add template for infrastructure request - Andy Terrel
+- Reach out how to onboard our projects  - Andy Terrel
+- Add infrastructure to agenda for project bimonthly meeting - Arliss Collins
+- Set up a mock budget for December submission
+- Nicole Foster to add existing ongoing costs
