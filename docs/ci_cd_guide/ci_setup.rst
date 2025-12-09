@@ -13,7 +13,7 @@ Management and Maintenance
 - **Updates and compatibility:** Who manages updates and handles breaking changes in CI tools?
 
 Hardware Requirements
-====================
+=====================
 
 Your hardware needs often determine which CI services are suitable for your project:
 
