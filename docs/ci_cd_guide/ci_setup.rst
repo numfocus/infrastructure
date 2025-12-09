@@ -70,7 +70,7 @@ Your testing approach affects CI costs and design:
    - Matrix builds multiply CI cost!
 
 Build Complexity
-===============
+================
 
 - **Build dependencies:** Are they quick to install or time-consuming?
 - **Caching strategy:** What can be cached between builds?
