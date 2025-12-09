@@ -1,6 +1,6 @@
-*****
+**********************
 CI Setup Considerations
-*****
+**********************
 
 When setting up CI/CD for your project, several factors influence which services and configurations will work best for you. This section outlines the key considerations.
 
