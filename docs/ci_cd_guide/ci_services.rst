@@ -1,6 +1,6 @@
-*****
+*******************
 CI Services Overview
-*****
+*******************
 
 NumFOCUS has experience with several CI/CD service providers. This section describes the different types of services available and highlights some specific options.
 
