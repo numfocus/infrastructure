@@ -1,6 +1,6 @@
-*****
+***********************
 Performance Benchmarking
-*****
+***********************
 
 For performance-critical projects like NumPy, SciPy, and other scientific packages, performance benchmarking is essential. This section covers benchmarking fundamentals and how to set it up in CI/CD.
 
