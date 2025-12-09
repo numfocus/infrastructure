@@ -166,7 +166,7 @@ Vendor-Specific Tips
    - Similar to GitHub Actions but better pricing for high-volume users
 
 Estimating Your Costs
-====================
+=====================
 
 To estimate your costs accurately:
 
