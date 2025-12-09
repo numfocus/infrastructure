@@ -106,7 +106,7 @@ Benchmarking Frameworks
    - **Usage:** Often run on a subset of code or nightly
 
 Machine Requirements for Benchmarking
-============================
+=====================================
 
 **Why Machine Consistency Matters**
 
