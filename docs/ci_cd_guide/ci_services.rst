@@ -5,7 +5,7 @@ CI Services Overview
 NumFOCUS has experience with several CI/CD service providers. This section describes the different types of services available and highlights some specific options.
 
 Types of CI Services
-===================
+====================
 
 **Platform as a Service (PaaS)**
    Managed services where you write CI configuration but don't manage infrastructure
