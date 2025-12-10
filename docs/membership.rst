@@ -11,7 +11,7 @@ Below we list each term of the Infrastructure Committee and its members.
 * Secretary: TBD
 * Members: TBD
 * Observing Members: Addo Davies Jr., Claudia Alvarado, Nicole Foster, Arliss Collins
-*
+
 2025-2026 Term
 --------------
 
