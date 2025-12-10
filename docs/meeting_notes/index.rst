@@ -7,4 +7,4 @@ Meeting Notes
    :caption: Contents
    :glob:
 
-   *
+   */*
