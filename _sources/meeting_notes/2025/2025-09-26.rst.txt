@@ -1,0 +1,39 @@
+************
+Sep 26, 2025
+************
+
+* Attendees:
+
+  - Smit Lunagariya, Nabil Freij
+
+* Observers:
+
+  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul, Kari Hall, Arliss Collins, Andy Terdrel, Benjamin Leff
+
+Agenda
+======
+
+- Zulip Overview (Committees)
+- Updates from Alex on ACCESS
+- Accept the new member?
+
+Notes
+=====
+
+- How did the benchmarking demo go?
+  - Did not have a meeting due to conflicts.
+- Zuplip overview for Nabil who has not been paying any attention.
+- Nabil will send a reply back to the new member, asking them to join.
+
+Action items
+============
+
+- Upload meeting notes to repo **Nabil Freij**
+- Create a report for the board **Nabil Freij**
+- Create a list of what needs to be done to add/remove members to the committee. **Nabil Freij**
+- Update character to mention the committee oversight is done by the TSC **Nabil Freij**
+- Meet with project regarding benchmarking POC **Addo Davies Jr.**
