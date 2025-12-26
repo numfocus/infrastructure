@@ -13,5 +13,5 @@ jobs:
       - name: "Auto-assign issue"
         uses: pozil/auto-assign-issue@v2
         with:
-          teams: instrastructure
+          teams: infrastructure
           repo-token: ${{ secrets.infra_automation }}
