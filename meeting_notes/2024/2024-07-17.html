@@ -1,0 +1,737 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Jul 17, 2024 &#8212; NumFOCUS Infrastructure Committee  documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=8f2a1f02" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="../../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="../../_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
+    <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'meeting_notes/2024/2024-07-17';</script>
+    <link rel="icon" href="../../_static/NumFocus_LRG.png"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Aug 02, 2024" href="2024-08-02.html" />
+    <link rel="prev" title="May 21, 2024" href="2024-05-21.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-3 navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/NumFocus_LRG.png" class="logo__image only-light" alt=""/>
+    <img src="../../_static/NumFocus_LRG.png" class="logo__image only-dark pst-js-only" alt=""/>
+  
+  
+    <p class="title logo__title">Infrastructure</p>
+  
+</a></div>
+    
+  </div>
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../charter.html">
+    Committee Charter
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../membership.html">
+    Membership
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Meeting Notes
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../review_process.html">
+    Infrastructure Requests
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../ci_cd_guide/index.html">
+    Paying for CI/CD
+  </a>
+</li>
+
+            <li class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button"
+                data-bs-toggle="dropdown" aria-expanded="false"
+                aria-controls="pst-nav-more-links">
+                    More
+                </button>
+                <ul id="pst-nav-more-links" class="dropdown-menu">
+                    
+<li class=" ">
+  <a class="nav-link dropdown-item nav-internal" href="../../projects/index.html">
+    Services for Projects
+  </a>
+</li>
+
+
+<li class=" ">
+  <a class="nav-link dropdown-item nav-internal" href="../../vendors/index.html">
+    Vendors
+  </a>
+</li>
+
+                </ul>
+            </li>
+            
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+        <div class="navbar-item">
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../charter.html">
+    Committee Charter
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../membership.html">
+    Membership
+  </a>
+</li>
+
+
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Meeting Notes
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../review_process.html">
+    Infrastructure Requests
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../ci_cd_guide/index.html">
+    Paying for CI/CD
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../projects/index.html">
+    Services for Projects
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../vendors/index.html">
+    Vendors
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button></div>
+        
+      </div>
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+<nav class="bd-docs-nav bd-links"
+     aria-label="Section Navigation">
+  <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
+  <div class="bd-toc-item navbar-nav"><p aria-level="2" class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../2023/2023-10-23.html">Oct 23, 2023</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2023/2023-11-15.html">Nov 15, 2023</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2023/2023-12-20.html">Dec 12, 2023</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-01-23.html">Jan 23, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-01-31.html">Jan 31, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-03-20.html">Mar 20, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-04-17.html">Apr 17, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-05-21.html">May 21, 2024</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Jul 17, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-08-02.html">Aug 02, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-08-21.html">Aug 21, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-09-18.html">Sep 18, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-10-04.html">Oct 04, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-12-06.html">Dec 06, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2024-12-18.html">Dev 18, 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-01-17.html">Jan 17, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-02-24.html">Fed 24, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-04-21.html">Apr 21, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-05-23.html">May 23, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-06-27.html">June 27, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-07-25.html">July 25, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-08-22.html">Aug 22, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-09-26.html">Sep 26, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-10-24.html">Oct 24, 2025</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../2025/2025-12-05.html">Dec 05, 2025</a></li>
+</ul>
+</div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Meeting Notes</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">Jul 17, 2024</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="jul-17-2024">
+<h1>Jul 17, 2024<a class="headerlink" href="#jul-17-2024" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p>Attendees:</p>
+<ul>
+<li><p>Andy Terrel, Seth Mridul, Katrina Riehl, Nabil Freij</p></li>
+</ul>
+</li>
+<li><p>Apologies:</p>
+<ul>
+<li><p>Katrina Riehl, Irfan Alibay, Matt Moore, Nicole Foster, Arliss Collins, Claudia Alvarado</p></li>
+</ul>
+</li>
+</ul>
+<section id="notes">
+<h2>Notes<a class="headerlink" href="#notes" title="Link to this heading">#</a></h2>
+<section id="guide-to-ci-cd">
+<h3>Guide to CI/CD<a class="headerlink" href="#guide-to-ci-cd" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>CirrusCI - NumPy and MD Analysis
+Provides what they need, Exotic hardware, Nice interface</p></li>
+<li><p>AWS - Chris Delp</p></li>
+</ul>
+<p>The Committees goal is to make going from free to paid CI as easy as possible.
+Need to write a bit on how to get the guide:</p>
+<p>If people ask for credit:</p>
+<ul class="simple">
+<li><p>What about a NF org?</p>
+<ul>
+<li><p>AWS</p>
+<ul>
+<li><p>Use CI-RUN to integrate with Github Actions</p></li>
+<li><p>allows the structure for sub orgs</p></li>
+<li><p>the quota on the bill is hard</p></li>
+<li><p>Needs active management</p></li>
+</ul>
+</li>
+<li><p>Cirrus-ci</p>
+<ul>
+<li><p>Github Actions integration</p></li>
+<li><p>Can buy credits</p></li>
+</ul>
+</li>
+<li><p>UbiCloud</p>
+<ul>
+<li><p>Github Actions based, so easy to use</p></li>
+<li><p>Willing to work with us on billing and customization</p></li>
+</ul>
+</li>
+<li><p>Github self hosted</p>
+<ul>
+<li><p>Easiest to use, but often have exotic hardware but getting better: GPUs, windows on arm</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Expense card?</p>
+<ul>
+<li><p>Can we generate virtual cards to hand out to projects with monthly quotas?</p></li>
+<li><p><a class="reference external" href="https://www.revolut.com/cards/virtual-card/">https://www.revolut.com/cards/virtual-card/</a> or <a class="reference external" href="https://www.pexcard.com/">https://www.pexcard.com/</a></p></li>
+</ul>
+</li>
+</ul>
+<section id="contents-of-a-guide">
+<h4>Contents of a Guide<a class="headerlink" href="#contents-of-a-guide" title="Link to this heading">#</a></h4>
+<p>CI</p>
+<ul class="simple">
+<li><p>What to consider when setting up a CI</p>
+<ul>
+<li><p>Management</p></li>
+<li><p>Hardware needs: This can limit what CI service you can pick</p></li>
+</ul>
+</li>
+<li><p>Types of services available</p>
+<ul>
+<li><p>IaaS (AWS, GCP, UbiCloud)</p></li>
+<li><p>PaaS (Github Actions, Gitlab CI)</p></li>
+</ul>
+</li>
+<li><p>Cost</p>
+<ul>
+<li><p>Predict your costs</p></li>
+<li><p>Testing frequency: per commit vs per pull request vs nightly vs weekly</p></li>
+<li><p>How to pay for the service via numfocus</p></li>
+</ul>
+</li>
+<li><p>Benchmarking</p>
+<ul>
+<li><p>Benchmarking fundamentals</p></li>
+<li><p>Machine requirements</p>
+<ul>
+<li><p>If bare metal:</p>
+<ul>
+<li><p>Who maintains it</p></li>
+<li><p>Who manages access to projects</p></li>
+<li><p>Quota or scheduling system</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Frameworks</p>
+<ul>
+<li><p>codspeed.io: Not open source, but “free” for OSS</p></li>
+<li><p>ASV: Long in tooth but used frequently</p></li>
+<li><p>ConBench: Lots of bloat so not easy to use</p></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>See also:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.pyopensci.org/python-package-guide/tests/tests-ci.html">https://www.pyopensci.org/python-package-guide/tests/tests-ci.html</a></p></li>
+<li><p><a class="reference external" href="https://learn.scientific-python.org/development/guides/gha-basic/">https://learn.scientific-python.org/development/guides/gha-basic/</a></p></li>
+<li><p><a class="reference external" href="https://scientific-python.org/specs/spec-0005/">https://scientific-python.org/specs/spec-0005/</a></p></li>
+<li><p><a class="reference external" href="https://discuss.scientific-python.org/t/spec-5-ci-best-practices/507/7">https://discuss.scientific-python.org/t/spec-5-ci-best-practices/507/7</a></p></li>
+<li><p><a class="github reference external" href="https://github.com/scientific-python/specs/pulls">scientific-python/specs</a></p></li>
+</ul>
+<p>Feedback to Github:</p>
+<ul class="simple">
+<li><p>Matrix requires: <a class="github reference external" href="https://github.com/OpenAstronomy/github-actions-workflows/blob/main/.github/workflows/tox.yml">OpenAstronomy/github-actions-workflows</a></p></li>
+</ul>
+<p>Discussion boards:</p>
+<ul class="simple">
+<li><p>Discussed proposal: <a class="github reference external" href="https://github.com/numfocus/TownHall/discussions/7">numfocus/TownHall#7</a></p>
+<ul>
+<li><p>Would like to just open this document rather than post minutes</p></li>
+<li><p>Seems like a good thing to post proposals like the one above</p></li>
+<li><p>Update instructions to prefer issues over emailing, slacking, or pinging on github issues</p></li>
+</ul>
+</li>
+</ul>
+<p>Needs from NumFOCUS Staff:</p>
+<ul class="simple">
+<li><p>Pretalx account follow up</p>
+<ul>
+<li><p>Have not heard back from NF Staff</p></li>
+<li><p>Can the committee start the conversation?</p></li>
+<li><p>Andy: I think we can certainly start conversations and get proposals but don’t have signatory power</p></li>
+<li><p>Mridul: can we just help nudge it along</p></li>
+</ul>
+</li>
+<li><p>Interview process for new devops role</p>
+<ul>
+<li><p>Committee sees opportunity to improve the process for the new hire</p></li>
+<li><p>Clarify the committee role</p>
+<ul>
+<li><p>Would like to have input on the hire</p></li>
+<li><p>Can help sort resumes</p></li>
+<li><p>Do we have a veto on candidates</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Summit invites to committee members</p>
+<ul>
+<li><p>Nabil going with SunPy</p></li>
+<li><p>Mridul invited via MDAnalysis, not sure if going</p></li>
+<li><p>Andy going with Advisory Council</p></li>
+</ul>
+</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="action-items">
+<h2>Action items<a class="headerlink" href="#action-items" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Create a Google Forms survey which details - Nabil Freij</p>
+<ul>
+<li><p>What CI services are using currently and what architectures do you use on them?</p></li>
+<li><p>Do they need paid services? If so, what ones and how much (rough estimate)?</p></li>
+<li><p>What architectures do you want to run on?</p></li>
+</ul>
+</li>
+<li><p>Review Notes and remove private links - Nabil Freij</p></li>
+<li><p>Move the proposal for CI/CD guide to discussions - Andy Terrel</p></li>
+<li><p>Generate sphinx skeleton - Nabil Freij</p></li>
+<li><p>Start writing base guide - Andy Terrel</p></li>
+<li><p>Follow up with NumFOCUS Staff - Andy Terrel</p></li>
+</ul>
+</section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="2024-05-21.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">May 21, 2024</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="2024-08-02.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Aug 02, 2024</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notes">Notes</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#guide-to-ci-cd">Guide to CI/CD</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#contents-of-a-guide">Contents of a Guide</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#action-items">Action items</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="../../_sources/meeting_notes/2024/2024-07-17.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="../../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="../../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2025, NumFOCUS Infrastructure Committee.
+      <br/>
+    
+  </p>
+</div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 9.0.4.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

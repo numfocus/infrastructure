@@ -1,0 +1,75 @@
+************
+Aug 21, 2024
+************
+
+* Attendees:
+
+  - Andy Terrel, Seth Mridul, Nabil Freij
+
+* Observers:
+
+  - Nicole Foster, Arliss Collins, Claudia Alvarado
+
+* Apologies:
+
+  - Katrina Riehl, Irfan Alibay, Matt Moore
+
+Notes
+=====
+
+Pretalx Proposal Decision
+-------------------------
+
+- It seems to be a cheaper option than currently
+- Nicole and Jim need to get proper quote and moving forward
+
+  - Jim is concerned about getting quick support
+
+    * Can this be part of the contract?
+
+- Need to decide if Marty's work on Pretalx would fall under the DevOp role
+- Decision: wait to pursue after we hire devop role
+
+DevOps Role
+------------
+
+- Currently 2k+ applications have around ~13 in a shortlist
+- Infrastructure committee wants to be involved in the technical interview
+
+  - Need to come up with some fixed questions to ask them
+  - Want to ensure that the interview is the same across all candidates
+
+NF Summit
+----------
+
+- There will be one unconference session on the infrastructure committee
+
+  - Want to bring up CI/CD guide
+  - See if people know about the new process for requests from the committee
+  - Do committees need common infrastructure that we can set up?
+
+    * Possible to unify how we do voting, notes and requests?
+    * Want to improve transparency?
+
+CI/CD Guide
+------------
+
+- Skeleton setup on the repo. Now we can add the information needed
+
+Action Items
+============
+
+- Create a Google Forms survey which details: Nabil Freij
+
+  - What CI services are using currently and what architectures do you use on them?
+  - Do they need paid services? If so, what ones and how much (rough estimate)?
+  - What architectures do you want to run on?
+
+- ~~Claudia - Create Calendly for Nabil, Andy, and Mridul for interviews (I'll create a group chat amongst us all to coordinate)~~
+
+  - ~~First interview- technical interview, add in fixed 85k rate in email send to Andy nvidia's email for faster response~~
+  - ~~Create spreadsheet tracking candidates stages (contacted, interested, etc)~~
+
+- ~~Andy, Mridul and Nabil: Create a checklist of questions to ensure a fair interview process via a shared Google Doc~~
+
+- Nabil Freij: Upload these notes to the website

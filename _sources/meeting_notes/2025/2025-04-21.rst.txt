@@ -1,0 +1,49 @@
+************
+Apr 21, 2025
+************
+
+* Attendees:
+
+  - Andy Terdrel, Nabil Freij
+
+* Observers:
+
+  -  Claudia Alvarado, Arliss Collins, Addo Davies Jr.
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul, Nicole Foster
+
+Notes
+=====
+
+- New members will form the core of the committee.
+
+  - New time will favour the new members available time over the existing members.
+  - Optional (aka when they have free time) Andy, Irfan and Mridul
+
+- Covered some project demands we got via emails for AWS credits.
+- Covered rackspace servers to reduce the monthly bill.
+- Review of servers again, who to contact with an open github issue to track this: https://github.com/numfocus/infrastructure/issues/60
+- Hope to transition specific webpages to GitHub or another static service.
+- Grants application(s):
+
+  - What are valuable infrastructure initiatives for the projects?
+
+    - CI/CD pieces that are longer than what you can do on github for free
+    - Security audits
+    - GPU requests, being able to support accelerators
+    - Paid services that Github Actions offers
+    - CoPilot Pro
+  - What's a reasonable cost estimate?
+
+    - Say 200$ a month per project.
+
+      - Not all projects would need it but it provides a good total amount.
+  - What are some potential funding sources?
+
+Action items
+============
+
+- Upload notes to the website
+- Reach out and delete/transfer Rackspace Cloud Servers

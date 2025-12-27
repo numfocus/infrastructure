@@ -1,0 +1,53 @@
+************
+Dec 06, 2024
+************
+
+* Attendees:
+
+  - Seth Mridul, Nabil Freij
+
+* Observers:
+
+  - Nicole Foster, Arliss Collins
+
+* Apologies:
+
+  - Andy Terrel, Katrina Riehl, Irfan Alibay, Matt Moore, Claudia Alvarado
+
+Notes
+=====
+
+- Andy and Mridul elected to Admin Board
+
+ * Advised against being VP and on the new board
+ * Nabil to be named VP
+
+- Potential New Member
+
+ * Ben Leff (ben@eugo.io) wants to volunteer
+ * Plan to send general email to board prospects
+ * Discuss continued involvement with Mridul and Irfan
+ * Katrina stepping off the committee
+
+- Matt McCormick's AWS issues
+- Nabil added to Google Group for emails
+- CI/CD Guide Restart
+
+ * Document current processes
+ * Explore funding strategies
+
+- Addo's Audit
+
+ * Currently low priority
+ * Reviewed audit process with committee
+
+Action Items
+============
+
+- Write annual report
+
+ * Deadline: January 15th for the board
+
+- Review charter
+
+ * Assigned to: Andy Terrel and Nabil Freij

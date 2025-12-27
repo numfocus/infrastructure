@@ -1,0 +1,39 @@
+************
+Apr 17, 2024
+************
+
+* Attendees
+
+  - Katrina Riehl, Andy Terrel, Nabil Freij
+* Observing
+
+  - Nicole Foster
+* Apologies
+
+  - Irfan Alibay, Matt Moore
+
+Notes
+=====
+
+Create Q1 Report for the Board
+
+- Infrastructure Committee Report Q1 2022
+- Infrastructure Committee Report Q1 2024
+
+Nicole sent the NumFOCUS DevOps Engineer - Independent Contractor Job Description in Slack.
+
+Has anyone had a chance to review it?
+
+Reviewing open issues
+
+- https://github.com/numfocus/infrastructure/issues/35 - Andy can log into the rackspace account - account details have been passed to Nicole/numfocus
+- https://github.com/numfocus/infrastructure/issues/34 - Need to check the Let's Encrypt account and see if it affects the other domains
+- https://github.com/numfocus/infrastructure/issues/25 - Closed due to no comment
+- https://github.com/numfocus/infrastructure/issues/22 - Email sent out to stakeholders to move this forward
+- https://github.com/numfocus/infrastructure/issues/19 - Need to work out if it's a committee issue or if Staff at NumFOCUS need to handle this.
+- https://github.com/numfocus/infrastructure/issues/12 - Remove DNS (from cloudflare) for each of those sites and see if anyone complains and if not, remove the hardware server
+
+Action items
+============
+
+- Review https://github.com/numfocus/infrastructure/pull/36/files when its ready (soon ™)

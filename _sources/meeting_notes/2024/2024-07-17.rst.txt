@@ -1,0 +1,152 @@
+************
+Jul 17, 2024
+************
+
+* Attendees:
+
+  - Andy Terrel, Seth Mridul, Katrina Riehl, Nabil Freij
+
+* Apologies:
+
+  - Katrina Riehl, Irfan Alibay, Matt Moore, Nicole Foster, Arliss Collins, Claudia Alvarado
+
+Notes
+=====
+
+Guide to CI/CD
+--------------
+
+- CirrusCI - NumPy and MD Analysis
+  Provides what they need, Exotic hardware, Nice interface
+- AWS - Chris Delp
+
+The Committees goal is to make going from free to paid CI as easy as possible.
+Need to write a bit on how to get the guide:
+
+If people ask for credit:
+
+- What about a NF org?
+
+  - AWS
+
+    - Use CI-RUN to integrate with Github Actions
+    - allows the structure for sub orgs
+    - the quota on the bill is hard
+    - Needs active management
+
+  - Cirrus-ci
+
+    - Github Actions integration
+    - Can buy credits
+
+  - UbiCloud
+
+    - Github Actions based, so easy to use
+    - Willing to work with us on billing and customization
+
+  - Github self hosted
+
+    - Easiest to use, but often have exotic hardware but getting better: GPUs, windows on arm
+
+- Expense card?
+
+  - Can we generate virtual cards to hand out to projects with monthly quotas?
+  - https://www.revolut.com/cards/virtual-card/ or https://www.pexcard.com/
+
+Contents of a Guide
+^^^^^^^^^^^^^^^^^^^
+
+CI
+
+- What to consider when setting up a CI
+
+  - Management
+  - Hardware needs: This can limit what CI service you can pick
+
+- Types of services available
+
+  - IaaS (AWS, GCP, UbiCloud)
+  - PaaS (Github Actions, Gitlab CI)
+
+- Cost
+
+  - Predict your costs
+  - Testing frequency: per commit vs per pull request vs nightly vs weekly
+  - How to pay for the service via numfocus
+
+- Benchmarking
+
+  - Benchmarking fundamentals
+  - Machine requirements
+
+    - If bare metal:
+
+      - Who maintains it
+      - Who manages access to projects
+      - Quota or scheduling system
+
+  - Frameworks
+
+    - codspeed.io: Not open source, but "free" for OSS
+    - ASV: Long in tooth but used frequently
+    - ConBench: Lots of bloat so not easy to use
+
+See also:
+
+- https://www.pyopensci.org/python-package-guide/tests/tests-ci.html
+- https://learn.scientific-python.org/development/guides/gha-basic/
+- https://scientific-python.org/specs/spec-0005/
+- https://discuss.scientific-python.org/t/spec-5-ci-best-practices/507/7
+- https://github.com/scientific-python/specs/pulls
+
+Feedback to Github:
+
+- Matrix requires: https://github.com/OpenAstronomy/github-actions-workflows/blob/main/.github/workflows/tox.yml
+
+Discussion boards:
+
+- Discussed proposal: https://github.com/numfocus/TownHall/discussions/7
+
+  - Would like to just open this document rather than post minutes
+  - Seems like a good thing to post proposals like the one above
+  - Update instructions to prefer issues over emailing, slacking, or pinging on github issues
+
+Needs from NumFOCUS Staff:
+
+- Pretalx account follow up
+
+  - Have not heard back from NF Staff
+  - Can the committee start the conversation?
+  - Andy: I think we can certainly start conversations and get proposals but don't have signatory power
+  - Mridul: can we just help nudge it along
+
+- Interview process for new devops role
+
+  - Committee sees opportunity to improve the process for the new hire
+
+  - Clarify the committee role
+
+    - Would like to have input on the hire
+    - Can help sort resumes
+    - Do we have a veto on candidates
+
+- Summit invites to committee members
+
+  - Nabil going with SunPy
+  - Mridul invited via MDAnalysis, not sure if going
+  - Andy going with Advisory Council
+
+Action items
+============
+
+- Create a Google Forms survey which details - Nabil Freij
+
+  - What CI services are using currently and what architectures do you use on them?
+  - Do they need paid services? If so, what ones and how much (rough estimate)?
+  - What architectures do you want to run on?
+
+- Review Notes and remove private links - Nabil Freij
+- Move the proposal for CI/CD guide to discussions - Andy Terrel
+- Generate sphinx skeleton - Nabil Freij
+- Start writing base guide - Andy Terrel
+- Follow up with NumFOCUS Staff - Andy Terrel
