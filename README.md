@@ -9,38 +9,24 @@ Main sections:
 - [Projects](https://numfocus.github.io/infrastructure/projects/index.html): Information regarding NumFOCUS projects that use shared infrastructure
 - [Vendors](https://numfocus.github.io/infrastructure/vendors/index.html): Information about NumFOCUS infrastructure providers (e.g., hosting companies)
 
-## Local Setup
+## Building locally
 
-This document explains how to set up the infrastructure docs locally.
-
-### Requirements
-
-- Python 3.10+
-- pip
-- virtualenv (optional)
-
-### Installation
+You can create your own Python virtual environment and do the following:
 
 ```bash
 pip install -r requirements.txt
-```
-
-Navigate to the docs directory and Build the documentation locally:
-
-```bash
 cd docs
 make html
-```
-
-```bash
 sphinx-build -b html . _build/html
 ```
-To run the documentation server:
+
+Or you can use tox:
 
 ```bash
-cd _build/html
-python -m http.server 8000
+pip install tox
+tox -e build_docs
 ```
+
 ## Contact
 
 [To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
