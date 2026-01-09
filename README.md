@@ -9,10 +9,6 @@ Main sections:
 - [Projects](https://numfocus.github.io/infrastructure/projects/index.html): Information regarding NumFOCUS projects that use shared infrastructure
 - [Vendors](https://numfocus.github.io/infrastructure/vendors/index.html): Information about NumFOCUS infrastructure providers (e.g., hosting companies)
 
-## Contact
-
-[To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
-
 ## Local Setup
 
 This document explains how to set up the infrastructure docs locally.
@@ -45,3 +41,6 @@ To run the documentation server:
 cd _build/html
 python -m http.server 8000
 ```
+## Contact
+
+[To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
