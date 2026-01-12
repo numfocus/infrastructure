@@ -30,3 +30,7 @@ tox -e build_docs
 ## Contact
 
 [To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
