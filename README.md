@@ -27,6 +27,10 @@ pip install tox
 tox -e build_docs
 ```
 
+## Contributing
+
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute to this project.
+
 ## Contact
 
 [To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
