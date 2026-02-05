@@ -7,15 +7,19 @@ We welcome contributions to the NumFOCUS Infrastructure Committee documentation!
 1. Fork this repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Make your changes
-4. Build the documentation locally to verify changes:
+4. Run code formatting and checks:
+   ```bash
+   pre-commit run --all-files
+   ```
+5. Build the documentation locally to verify changes:
    ```bash
    pip install -r requirements.txt
    cd docs
    make html
    ```
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
+6. Commit your changes (`git commit -m 'Add amazing feature'`)
+7. Push to the branch (`git push origin feature/amazing-feature`)
+8. Open a Pull Request
 
 ## Types of Contributions
 
@@ -35,6 +39,7 @@ We welcome contributions to the NumFOCUS Infrastructure Committee documentation!
 ## Review Process
 
 All contributions go through our standard review process:
+
 1. Automated checks (if any)
 2. Committee member review
 3. Feedback and iteration
