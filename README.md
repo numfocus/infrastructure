@@ -33,7 +33,7 @@ Please see our [Contributing Guidelines](CONTRIBUTING.md) for information on how
 
 ## Contact
 
-[To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
+To contact the committee, you can use the email address: [infrastructure@numfocus.org](infrastructure@numfocus.org)
 
 ## License
 
