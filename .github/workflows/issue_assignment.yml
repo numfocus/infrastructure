@@ -14,7 +14,7 @@ jobs:
       issues: write
     steps:
       - name: "Auto-assign issue"
-        uses: pozil/auto-assign-issue@v2
+        uses: pozil/auto-assign-issue@v3
         with:
           teams: infrastructure
           repo-token: ${{ secrets.GITHUB_TOKEN }}
