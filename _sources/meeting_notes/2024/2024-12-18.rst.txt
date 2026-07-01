@@ -1,0 +1,36 @@
+************
+Dev 18, 2024
+************
+
+* Attendees:
+
+  - Andy Terrel, Nabil Freij
+
+* Observers:
+
+  - Addo Davies Jr., Nicole Foster, Claudia Alvarado, Arliss Collins
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul
+
+Notes
+=====
+
+- Confirm continued participation
+
+ * Check Mridul and Irfan's availability
+ * Recruitment email highlights:
+
+   - 5 hours per month commitment
+   - 1 monthly meeting
+   - Advise NumFOCUS and projects on infrastructure needs
+
+- Update membership terms to two years
+
+- Addo's Audit
+
+  * Identified unused servers costing money
+  * Unused servers have been removed
+
+- Setup project to track issues with structured workflow

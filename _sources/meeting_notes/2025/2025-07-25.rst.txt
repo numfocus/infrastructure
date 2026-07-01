@@ -1,0 +1,45 @@
+*************
+July 25, 2025
+*************
+
+* Attendees:
+
+  - Smit Lunagariya, Nabil Freij, Andy Terdrel, Benjamin Leff
+
+* Observers:
+
+  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul, Kari Hall, Arliss Collins
+
+Agenda
+======
+
+- Follow up on previous meetings action items.
+- Decide on the outcome of application for the new committee member.
+- GitHub permissions clean up - audit complete, need final review before deleting any teams.
+- Need to start up efforts again to create the guide on how to tell projects to pay for CI/CD from the last numFOCUS summit.
+- Do we have any updates on ACCESS?
+- Anything else?
+- Addo - pg_dump data from AWS pretalx instances, where should this be kept ideally?
+
+Notes
+=====
+
+- Arliss has done the full review of GitHub teams
+- Plan is to update it all manually and then switch to the auto yaml config to manage it going forward.
+- Not heard back from Alex about ACCESS, so just need to send a follow up email.
+- Addo emailed Irfan, no response yet, checking with him.
+- Delete older pg_dump data from before 2023.
+
+Action items
+============
+
+- Create an issue template for ACCESS to help Alex manage on https://github.com/numfocus/infrastructure **Nabil Freij**
+- Upload meeting notes to repo **Nabil Freij**
+- Create a report for the board **Nabil Freij**
+- Email Alex about ACCESS accounts **Nabil Freij**
+- Add documentation about how to add or remove people **Nabil Freij**
+- Email potential new members asking for more information. **Nabil Freij**

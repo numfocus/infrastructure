@@ -1,0 +1,38 @@
+************
+Aug 22, 2025
+************
+
+* Attendees:
+
+  - Nabil Freij
+
+* Observers:
+
+  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul, Kari Hall, Arliss Collins, Smit Lunagariya, Andy Terdrel, Benjamin Leff
+
+Agenda
+======
+
+- Follow up on previous meetings action items.
+- ASV Bookmarking Demo.
+
+Notes
+=====
+
+- Nabil emailed Alex about getting access to ACCESS, still no response.
+- Nabil emailed Alex about getting access to ACCESS, still no response.
+- Addo has a meeting to showcase his prototype of the new benchmarking frontend to the astropy folks.
+  - Once he has the full range of requirements from them and MDAnalysis, he can add more features.
+
+Action items
+============
+
+- Create an issue template for ACCESS to help Alex manage on https://github.com/numfocus/infrastructure **Nabil Freij**
+- Upload meeting notes to repo **Nabil Freij**
+- Create a report for the board **Nabil Freij**
+- Ask everyone to review charter again Slack/Email **Nabil Freij**
+- Ask everyone about their time commitment Slack/Email **Nabil Freij**
