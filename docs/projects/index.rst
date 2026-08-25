@@ -35,7 +35,7 @@ Using GitHub pages you have total control of your website, and there is no cost 
 Bigger static site
 ~~~~~~~~~~~~~~~~~~
 
-If you need static hosting which exceed GitHub pages quotas, please create a `static hosting issue <https://github.com/numfocus/infrastructure/issues/new?labels=Static%2CHosting&template=template=static_hosting.yaml>`__
+If you need static hosting which exceed GitHub pages quotas, please create a `static hosting issue <https://github.com/numfocus/infrastructure/issues/new?labels=Static%2CHosting&template=static_hosting.yaml>`__
 
 Request performance benchmarks for your project
 -----------------------------------------------
@@ -44,7 +44,7 @@ Running benchmarks and keeping a history for your project can be tricky, since C
 
 For this reason, NumFOCUS provides the service of running `asv <https://asv.readthedocs.io/>`__ benchmarks in dedicated hardware, and publish the results at https://pandas.pydata.org/speed/
 
-If your project wants its benchmarks being published, please create a `benchmarks issue <https://github.com/numfocus/infrastructure/issues/new?labels=Benchmarks&template=template=benchmarks.yaml>`__
+If your project wants its benchmarks being published, please create a `benchmarks issue <https://github.com/numfocus/infrastructure/issues/new?labels=Benchmarks&template=benchmarks.yaml>`__
 
 Other requests
 --------------
