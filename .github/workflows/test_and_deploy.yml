@@ -58,10 +58,8 @@ jobs:
     needs: [check_style, build_docs]
     if: |
       (
-        github.event_name != 'pull_request' && (
-        github.ref_name == 'main' ||
-        github.event_name == 'workflow_dispatch'
-        )
+        github.event_name != 'pull_request' &&
+        github.ref_name == 'main'
       )
     runs-on: ubuntu-latest
     permissions:
