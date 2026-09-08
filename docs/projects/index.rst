@@ -12,7 +12,7 @@ If your project wants to use a pydata.org subdomain, please create a `pydata.org
 Request a custom domain
 -----------------------
 
-If your project wants to use a pydata.org subdomain, please create a `custom domain issue <https://github.com/numfocus/infrastructure/issues/new?labels=Custom%2CDomain&template=custom_domain.yaml>`__
+If your project wants a custom domain managed by NumFOCUS, please create a `custom domain issue <https://github.com/numfocus/infrastructure/issues/new?labels=Custom%2CDomain&template=custom_domain.yaml>`__
 
 Request hosting for a static site
 ---------------------------------
