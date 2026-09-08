@@ -1,0 +1,53 @@
+************
+May 23, 2025
+************
+
+* Attendees:
+
+  - Andy Terdrel, Benjamin Leff, Smit Lunagariya, Nabil Freij
+
+* Observers:
+
+  -  Claudia Alvarado, Arliss Collins, Addo Davies Jr., Alexandru, Nicole Foster, Sanket Verma, Kari Hall
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul
+
+Notes
+=====
+
+Results from ACCESS Survey:
+  - We have large CPU and GPU resources. No large memory instances.
+  - Overall 5 interested, they want a broad range of resources.
+  - Forums would be easiest to manage resources and for users to ask for resources instead of slack or email.
+  - If a project needs a large amount of resources, we need to assign a "cloud manager" to maintain the resources instead of Alex.
+  - We should add someone either from numFOCUS or the committee to be added as an allocation manager to help manage.
+  - Should make it clear to projects, this is grant based, there is no guarantee for long term use. It is not a backup for data.
+  - We need to convert the credits into actual resource credits. Idea is to turn half of the credits, 100k, into actual resources for the projects interested.
+
+- Addo has had issues getting access to AWS instances based on Marty's instructions. We need to get back in touch with him to fix these issues.
+
+  - Martey's Instance Credentials
+
+    - Addo was given user name (ex:scverse) and password combinations to get into pretalx instances on AWS from Martey but does not know where these credentials go.
+    - He has tried logging into the AWS terminal and the instances itself and was unable to do so.
+- Still older servers in use, Addo wants to double check with Marty that it is safe to shut them off. The projects have forgotten about these servers but we don't want to break anything that might be in use.
+- Need to clean up GitHub teams, a combination of both unused teams and members who should be either removed or added to teams.
+
+  - Specific dashboards need team access, the idea is to move to hubspot so avoid having to manage teams for data access.
+  - Arliss and Nicole are happy to audit the teams.
+
+    - Idea is to clean up the teams and then Addo to create a yaml file with the Github Action (https://github.com/scientific-python/sync-teams-action) to avoid having to use the GitHub UI. Will be quicker for audits going forward.
+- There is a new potential member, the committee needs to review the application and then decide whether to invite them or not.
+
+Action items
+============
+
+- Upload notes to the website
+- Reach out and delete/transfer Rackspace Cloud Servers
+- Add Benjamin & Smit to infrastructure committee channel (this is a public channel) and NumFOCUS workspace
+- Create a report for the board
+- Give Addo access to ACCESS as an allocation manager. Send Alex, Addo's email address
+- Create an issue template for ACCESS to help Alex manage on https://github.com/numfocus/infrastructure
+- Two week deadline to review the one application for the new member and give a thumbs up/down.

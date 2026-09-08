@@ -1,0 +1,25 @@
+************
+Jan 23, 2024
+************
+
+* Attendees
+
+  - Nabil Freij, Andy Terrel
+
+* Observing
+
+  - Arliss Collins, Nicole Foster, Matt Moore
+
+* Apologies
+
+  - Katrina Riehl, Katrina Riehl, Mridul Seth, Irfan Alibay
+
+Action items
+============
+
+- 2024 Proposed Infrastructure Budget- draft
+- Can we go through the SDG asks and see what should be added?
+- Draft review process document: Managing Infrastructure Requests
+- Setup GitHub Actions to process notifications
+- Create a review rotation
+- Review issues: https://github.com/numfocus/infrastructure/issues/26

@@ -1,0 +1,51 @@
+************
+Dec 05, 2025
+************
+
+* Attendees:
+
+  - Seema, Nabil Freij, Benjamin Leff
+
+* Observers:
+
+  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster, Kari Hall
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul, Arliss Collins, Andy Terrel
+
+Agenda
+======
+
+- Previous Action Items
+- Nabil has access to ACCESS, so we can start using that.
+  He needs to understand how to use it though.
+- Volunteer Policy - Please sign by Dec. 15th
+  - 2 out of 5 received from the committee
+- Joining Zulip
+  - Access here: https://numfocus.zulipchat.com
+  Click "Forgot Password" and enter the email associated with your Slack account or use the Google
+  login if you previously used your Google account for Slack.
+  - Email help@numfocus.org if you have trouble
+
+Notes
+=====
+
+- We have access to ACCESS.
+  - We need to work out how to give out access to projects and to what projects are asked.
+  - Nabil recalls a survey which was sent out and will try to find it.
+- AVS Benchmarking Costs
+  - Addo has created a document which he will share with AstroPy.
+  - Nabil suggested at those prices to look at other cloud platforms which provide dedicated servers for less.
+- Nabil will be stepping down from the committee at the end of the year.
+  He is not engaging with the open-source community anymore and feels it is best to have someone
+  who is active within the broader community.
+
+Action items
+============
+
+- Upload meeting notes to repo **Nabil Freij**
+- Create an issue template for ACCESS to help Alex and others manage on https://github.com/numfocus/infrastructure **Nabil Freij**
+- Find which projects wanted ACCESS access and contact them to give them accounts **Nabil Freij**
+- Figure out how to renew the project as I don't think we will use all the credits in time. No cost extension? Might be worth emailing Alex about it. **Nabil Freij**
+- Give Addo access to ACCESS **Nabil Freij**

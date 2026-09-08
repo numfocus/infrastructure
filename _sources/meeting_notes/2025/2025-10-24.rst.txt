@@ -1,0 +1,60 @@
+************
+Oct 24, 2025
+************
+
+* Attendees:
+
+  - Seema, Nabil Freij, Benjamin Leff
+
+* Observers:
+
+  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster, Kari Hall
+
+* Apologies:
+
+  - Irfan Alibay, Seth Mridul, Arliss Collins, Andy Terrel
+
+Agenda
+======
+
+- Previous Action Items
+  - Benchmarking with AstroPy
+- Over utilization of Resources for wpengine.com
+- Welcome new member
+- https://github.com/numfocus/infrastructure/issues/69
+- Other stuff?
+
+Notes
+=====
+
+- Benchmarking with AstroPy
+  - Before committing to funding, projects would like a detailed cost estimate and a proof of concept demonstrating the application's capabilities and expected performance (running a ASV benchmark on a project in an EC2 server).
+  - Since projects will be financially responsible for their usage, we need to determine a fair and transparent monthly billing model that accounts for factors such as server usage and resource consumption.
+  - Need to get a cost estimate for a simple EC2 instant.
+
+    - EC2 cost calculator would get us about 85% of the way.
+
+- Budget questions around does the committee still have the money it asked for last year?
+- Over utilization of Resources for wpengine.com
+  - Addo with WP Engine Support.
+  - The exact day for when the bandwidth spike occurred was September 25th. The day I switch our plan from annually to monthly.
+  - The following IPs are causing the high bandwidth:
+
+    - 136.143.177.51 with nginx and php log types
+    - 136.143.177.50 with nginx and php log types
+    - 136.143.176.51 with nginx and php log types
+    - 74.242.242.134 have not yet found any logs for this.
+
+  - Addo went ahead and blocked these IPs.
+- The numFOCUS website is moving to a new platform and backend system.
+- Arlis is the one to ask about signing software stuff for projects.
+  - She has been tagged on the issue, hopefully we can take this forward with the projects.
+- Try to get our contact on the TSC to join, timezones are a big problem.
+- Make sure all committee members are signed up to vote.
+
+Action items
+============
+
+- Upload meeting notes to repo **Nabil Freij**
+- Create Detailed Cost Estimate for Benchmarking Application **Addo Davies Jr.**
+- Create an issue template for ACCESS to help Alex manage on https://github.com/numfocus/infrastructure
