@@ -2,16 +2,12 @@
 Jul 17, 2024
 ************
 
-* Attendees:
+:Attendees: Andy Terrel, Mridul Seth, Katrina Riehl, Nabil Freij
 
-  - Andy Terrel, Mridul Seth, Katrina Riehl, Nabil Freij
+:Apologies: Irfan Alibay, Matt Moore, Nicole Foster, Arliss Collins, Claudia Alvarado
 
-* Apologies:
-
-  - Irfan Alibay, Matt Moore, Nicole Foster, Arliss Collins, Claudia Alvarado
-
-Notes
-=====
+Discussion
+==========
 
 Guide to CI/CD
 --------------

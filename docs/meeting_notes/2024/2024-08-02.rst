@@ -2,20 +2,14 @@
 Aug 02, 2024
 ************
 
-* Attendees:
+:Attendees: Mridul Seth, Nabil Freij
 
-  - Mridul Seth, Nabil Freij
+:Observers: Nicole Foster, Arliss Collins
 
-* Observers:
+:Apologies: Andy Terrel, Katrina Riehl, Irfan Alibay, Matt Moore, Claudia Alvarado
 
-  - Nicole Foster, Arliss Collins
-
-* Apologies:
-
-  - Andy Terrel, Katrina Riehl, Irfan Alibay, Matt Moore, Claudia Alvarado
-
-Notes
-=====
+Discussion
+==========
 
 Summit:
 

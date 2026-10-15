@@ -2,17 +2,11 @@
 Oct 24, 2025
 ************
 
-* Attendees:
+:Attendees: Seema, Nabil Freij, Benjamin Leff
 
-  - Seema, Nabil Freij, Benjamin Leff
+:Observers: Claudia Alvarado, Addo Davies Jr., Nicole Foster, Kari Hall
 
-* Observers:
-
-  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster, Kari Hall
-
-* Apologies:
-
-  - Irfan Alibay, Mridul Seth, Arliss Collins, Andy Terrel
+:Apologies: Irfan Alibay, Mridul Seth, Arliss Collins, Andy Terrel
 
 Agenda
 ======
@@ -26,8 +20,8 @@ Agenda
 - https://github.com/numfocus/infrastructure/issues/69
 - Other stuff?
 
-Notes
-=====
+Discussion
+==========
 
 - Benchmarking with Astropy
 

@@ -2,17 +2,11 @@
 Feb 24, 2025
 ************
 
-* Attendees:
+:Attendees: Mridul Seth, Nabil Freij
 
-  - Mridul Seth, Nabil Freij
+:Observers: Nicole Foster, Claudia Alvarado, Arliss Collins
 
-* Observers:
-
-  -  Nicole Foster, Claudia Alvarado, Arliss Collins
-
-* Apologies:
-
-  - Irfan Alibay, Andy Terrel, Addo Davies Jr.
+:Apologies: Irfan Alibay, Andy Terrel, Addo Davies Jr.
 
 Agenda
 ======
@@ -24,8 +18,8 @@ Agenda
 
     - Punt to the next meeting.
 
-Notes
-=====
+Discussion
+==========
 
 - Alexandru joined to discuss ACCESS:
 

@@ -2,17 +2,11 @@
 July 25, 2025
 *************
 
-* Attendees:
+:Attendees: Smit Lunagariya, Nabil Freij, Andy Terrel, Benjamin Leff
 
-  - Smit Lunagariya, Nabil Freij, Andy Terrel, Benjamin Leff
+:Observers: Claudia Alvarado, Addo Davies Jr., Nicole Foster
 
-* Observers:
-
-  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster
-
-* Apologies:
-
-  - Irfan Alibay, Mridul Seth, Kari Hall, Arliss Collins
+:Apologies: Irfan Alibay, Mridul Seth, Kari Hall, Arliss Collins
 
 Agenda
 ======
@@ -25,8 +19,8 @@ Agenda
 - Anything else?
 - Addo - pg_dump data from AWS pretalx instances, where should this be kept ideally?
 
-Notes
-=====
+Discussion
+==========
 
 - Arliss has done the full review of GitHub teams
 - Plan is to update it all manually and then switch to the auto yaml config to manage it going forward.

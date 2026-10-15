@@ -2,20 +2,14 @@
 Nov 15, 2023
 ************
 
-* Attendees
+:Attendees: Andy Terrel, Irfan Alibay, Nabil Freij
 
-  - Andy Terrel, Irfan Alibay, Nabil Freij
+:Observers: Nicole Foster, Arliss Collins
 
-* Observing
+:Apologies: Katrina Riehl, Matt Moore, Mridul Seth
 
-  - Nicole Foster, Arliss Collins
-
-* Apologies
-
-  - Katrina Riehl, Matt Moore, Mridul Seth
-
-Notes
-=====
+Discussion
+==========
 
 Approval of last month's minutes
 --------------------------------

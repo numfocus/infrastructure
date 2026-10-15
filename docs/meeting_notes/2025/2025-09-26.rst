@@ -2,17 +2,11 @@
 Sep 26, 2025
 ************
 
-* Attendees:
+:Attendees: Smit Lunagariya, Nabil Freij
 
-  - Smit Lunagariya, Nabil Freij
+:Observers: Claudia Alvarado, Addo Davies Jr., Nicole Foster
 
-* Observers:
-
-  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster
-
-* Apologies:
-
-  - Irfan Alibay, Mridul Seth, Kari Hall, Arliss Collins, Andy Terrel, Benjamin Leff
+:Apologies: Irfan Alibay, Mridul Seth, Kari Hall, Arliss Collins, Andy Terrel, Benjamin Leff
 
 Agenda
 ======
@@ -21,8 +15,8 @@ Agenda
 - Updates from Alex on ACCESS
 - Accept the new member?
 
-Notes
-=====
+Discussion
+==========
 
 - How did the benchmarking demo go?
 

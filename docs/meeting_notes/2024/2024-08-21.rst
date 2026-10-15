@@ -2,20 +2,14 @@
 Aug 21, 2024
 ************
 
-* Attendees:
+:Attendees: Andy Terrel, Mridul Seth, Nabil Freij
 
-  - Andy Terrel, Mridul Seth, Nabil Freij
+:Observers: Nicole Foster, Arliss Collins, Claudia Alvarado
 
-* Observers:
+:Apologies: Katrina Riehl, Irfan Alibay, Matt Moore
 
-  - Nicole Foster, Arliss Collins, Claudia Alvarado
-
-* Apologies:
-
-  - Katrina Riehl, Irfan Alibay, Matt Moore
-
-Notes
-=====
+Discussion
+==========
 
 Pretalx Proposal Decision
 -------------------------
@@ -56,7 +50,7 @@ CI/CD Guide
 
 - Skeleton setup on the repo. Now we can add the information needed
 
-Action Items
+Action items
 ============
 
 - Create a Google Forms survey which details: Nabil Freij

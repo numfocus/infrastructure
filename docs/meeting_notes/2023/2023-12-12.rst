@@ -2,20 +2,14 @@
 Dec 12, 2023
 ************
 
-* Attendees
+:Attendees: Irfan Alibay, Nabil Freij
 
-  - Irfan Alibay, Nabil Freij
+:Observers: Nicole Foster
 
-* Observing
+:Apologies: Arliss Collins, Andy Terrel, Mridul Seth, Matt Moore, Katrina Riehl
 
-  - Nicole Foster
-
-* Apologies
-
-  - Arliss Collins, Andy Terrel, Mridul Seth, Matt Moore, Katrina Riehl
-
-Notes
-=====
+Discussion
+==========
 
 SDG Infrastructure - Proposals 2022 & 2023, it lacks information if any of the projects were funded or not.
 

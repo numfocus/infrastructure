@@ -2,18 +2,12 @@
 Apr 17, 2024
 ************
 
-* Attendees
+:Attendees: Katrina Riehl, Andy Terrel, Nabil Freij
+:Observers: Nicole Foster
+:Apologies: Irfan Alibay, Matt Moore
 
-  - Katrina Riehl, Andy Terrel, Nabil Freij
-* Observing
-
-  - Nicole Foster
-* Apologies
-
-  - Irfan Alibay, Matt Moore
-
-Notes
-=====
+Discussion
+==========
 
 Create Q1 Report for the Board
 

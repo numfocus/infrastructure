@@ -2,17 +2,11 @@
 Dec 05, 2025
 ************
 
-* Attendees:
+:Attendees: Seema, Nabil Freij, Benjamin Leff
 
-  - Seema, Nabil Freij, Benjamin Leff
+:Observers: Claudia Alvarado, Addo Davies Jr., Nicole Foster, Kari Hall
 
-* Observers:
-
-  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster, Kari Hall
-
-* Apologies:
-
-  - Irfan Alibay, Mridul Seth, Arliss Collins, Andy Terrel
+:Apologies: Irfan Alibay, Mridul Seth, Arliss Collins, Andy Terrel
 
 Agenda
 ======
@@ -34,8 +28,8 @@ Agenda
 
   - Email help@numfocus.org if you have trouble
 
-Notes
-=====
+Discussion
+==========
 
 - We have access to ACCESS.
 

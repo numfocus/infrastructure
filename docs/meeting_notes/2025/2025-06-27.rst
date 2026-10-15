@@ -2,17 +2,11 @@
 June 27, 2025
 *************
 
-* Attendees:
+:Attendees: Andy Terrel, Benjamin Leff, Nabil Freij
 
-  - Andy Terrel, Benjamin Leff, Nabil Freij
+:Observers: Addo Davies Jr., Nicole Foster, Kari Hall
 
-* Observers:
-
-  -  Addo Davies Jr., Nicole Foster, Kari Hall
-
-* Apologies:
-
-  - Irfan Alibay, Mridul Seth, Smit Lunagariya, Arliss Collins, Claudia Alvarado
+:Apologies: Irfan Alibay, Mridul Seth, Smit Lunagariya, Arliss Collins, Claudia Alvarado
 
 Agenda
 ======
@@ -25,8 +19,8 @@ Agenda
 - Charter review from the new members?
 - Anything else?
 
-Notes
-=====
+Discussion
+==========
 
 - Addo gained access to the AWS instances.
 - He created a helper function to add ssh keys to all servers.

@@ -2,20 +2,41 @@
 NumFOCUS Infrastructure Committee
 *********************************
 
-This site details the activities and governance of the NumFOCUS Infrastructure Committee.
+We help NumFOCUS projects manage their digital infrastructure and advise NumFOCUS staff on infrastructure needs.
 
-The Committee is "responsible for managing project digital infrastructure in a way that is fair, equitable, and supports long-term sustainability and project development."
+Get help
+========
 
-We also advise the NumFOCUS staff on infrastructure-related matters.
+- :doc:`Browse infrastructure services <projects/index>` for domains, hosting, and benchmarks.
+- :doc:`Submit an infrastructure request <review_process>` and learn how requests are reviewed.
+- `Contact the committee <mailto:infrastructure@numfocus.org>`_ with questions.
+
+About the committee
+===================
+
+Read our :doc:`charter <charter>`, find :doc:`committee members <membership>`, or browse :doc:`meeting notes <meeting_notes/index>`.
 
 .. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: For projects
+
+   projects/index
+   review_process
+   ci_cd_guide/index
+   vendors/index
+
+.. toctree::
+   :hidden:
    :maxdepth: 1
-   :caption: Contents
+   :caption: Committee
 
    charter
    membership
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Records
+
    meeting_notes/index
-   review_process
-   ci_cd_guide/index
-   projects/index
-   vendors/index

@@ -2,20 +2,14 @@
 Mar 20, 2024
 ************
 
-* Attendees
+:Attendees: Irfan Alibay, Nabil Freij, Andy Terrel, Katrina Riehl, Mridul Seth
 
-  - Irfan Alibay, Nabil Freij, Andy Terrel, Katrina Riehl, Mridul Seth
+:Observers: Nicole Foster, Matt Moore
 
-* Observing
+:Apologies: Arliss Collins
 
-  - Nicole Foster, Matt Moore
-
-* Apologies
-
-  - Arliss Collins
-
-Notes
-=====
+Discussion
+==========
 
 Budgets
 -------
