@@ -4,7 +4,7 @@ Aug 02, 2024
 
 * Attendees:
 
-  - Seth Mridul, Nabil Freij
+  - Mridul Seth, Nabil Freij
 
 * Observers:
 
@@ -87,4 +87,4 @@ Action items
   - Generate sphinx skeleton Nabil Freij
   - Start writing base guide Andy Terrel
 
-- Filter more resumes on linkedin Andy Terrel,  Seth Mridul, Nabil Freij
+- Filter more resumes on linkedin Andy Terrel,  Mridul Seth, Nabil Freij

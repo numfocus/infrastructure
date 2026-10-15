@@ -4,7 +4,7 @@ Jan 17, 2025
 
 * Attendees:
 
-  - Andy Terrel, Seth Mridul, Nabil Freij
+  - Andy Terrel, Mridul Seth, Nabil Freij
 
 * Observers:
 
@@ -35,7 +35,7 @@ Notes
   * Operational details
   * Collaboration with original author
 
-- Explore evening UTC time for Irfran
+- Explore evening UTC time for Irfan
 
  * Preferred: After 6 PM UTC
 

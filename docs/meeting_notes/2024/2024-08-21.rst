@@ -4,7 +4,7 @@ Aug 21, 2024
 
 * Attendees:
 
-  - Andy Terrel, Seth Mridul, Nabil Freij
+  - Andy Terrel, Mridul Seth, Nabil Freij
 
 * Observers:
 
@@ -65,11 +65,11 @@ Action Items
   - Do they need paid services? If so, what ones and how much (rough estimate)?
   - What architectures do you want to run on?
 
-- ~~Claudia - Create Calendly for Nabil, Andy, and Mridul for interviews (I'll create a group chat amongst us all to coordinate)~~
+- Completed: Claudia - Create Calendly for Nabil, Andy, and Mridul for interviews (I'll create a group chat amongst us all to coordinate)
 
-  - ~~First interview- technical interview, add in fixed 85k rate in email send to Andy nvidia's email for faster response~~
-  - ~~Create spreadsheet tracking candidates stages (contacted, interested, etc)~~
+  - Completed: First interview- technical interview, add in fixed 85k rate in email send to Andy nvidia's email for faster response
+  - Completed: Create spreadsheet tracking candidates stages (contacted, interested, etc)
 
-- ~~Andy, Mridul and Nabil: Create a checklist of questions to ensure a fair interview process via a shared Google Doc~~
+- Completed: Andy, Mridul and Nabil: Create a checklist of questions to ensure a fair interview process via a shared Google Doc
 
 - Nabil Freij: Upload these notes to the website

@@ -4,7 +4,7 @@ May 21, 2024
 
 * Attendees:
 
-  - Katrina Riehl, Andy Terrel, Seth Mridul, Nabil Freij
+  - Katrina Riehl, Andy Terrel, Mridul Seth, Nabil Freij
 
 * Observing:
 
@@ -55,7 +55,7 @@ Pay by expected number of attendees and talks:
 - 12 month + 4 concurrent events: $2,400
 - Contract costs: $16,000
 
-Github Issues
+GitHub Issues
 -------------
 
 AWS Credits for projects

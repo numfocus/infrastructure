@@ -26,7 +26,7 @@ Has anyone had a chance to review it?
 
 Reviewing open issues
 
-- https://github.com/numfocus/infrastructure/issues/35 - Andy can log into the rackspace account - account details have been passed to Nicole/numfocus
+- https://github.com/numfocus/infrastructure/issues/35 - Andy can log into the rackspace account - account details have been passed to Nicole/NumFOCUS
 - https://github.com/numfocus/infrastructure/issues/34 - Need to check the Let's Encrypt account and see if it affects the other domains
 - https://github.com/numfocus/infrastructure/issues/25 - Closed due to no comment
 - https://github.com/numfocus/infrastructure/issues/22 - Email sent out to stakeholders to move this forward

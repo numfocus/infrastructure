@@ -1,5 +1,5 @@
 name: Benchmarks
-description: Request running your project benchmarks in stable hardware provided by NumFOCUS
+description: Request running your project benchmarks on stable hardware provided by NumFOCUS
 labels: ["Request - Benchmarks"]
 
 body:
@@ -8,7 +8,7 @@ body:
     attributes:
       label: Project
       description: >
-        Please provide what NumFOCUS sponsored project you represent
+        Which NumFOCUS-sponsored project do you represent?
     validations:
       required: true
 
@@ -17,7 +17,7 @@ body:
     attributes:
       label: Hardware Requirements
       description: >
-        Please let us know what hardware requirements you need for running your benchmarks
+        Please let us know what hardware you need to run your benchmarks
     validations:
       required: true
 
@@ -26,7 +26,7 @@ body:
     attributes:
       label: Cost Estimation
       description: >
-        Please let us know if you have any cost estimation for running your benchmarks
+        Please let us know your estimated cost of running the benchmarks, or state that it is unknown
     validations:
       required: true
 
@@ -37,4 +37,4 @@ body:
       description: >
         Please let us know if there is any other information you'd like to provide
     validations:
-      required: true
+      required: false

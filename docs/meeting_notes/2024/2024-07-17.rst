@@ -4,11 +4,11 @@ Jul 17, 2024
 
 * Attendees:
 
-  - Andy Terrel, Seth Mridul, Katrina Riehl, Nabil Freij
+  - Andy Terrel, Mridul Seth, Katrina Riehl, Nabil Freij
 
 * Apologies:
 
-  - Katrina Riehl, Irfan Alibay, Matt Moore, Nicole Foster, Arliss Collins, Claudia Alvarado
+  - Irfan Alibay, Matt Moore, Nicole Foster, Arliss Collins, Claudia Alvarado
 
 Notes
 =====
@@ -20,7 +20,7 @@ Guide to CI/CD
   Provides what they need, Exotic hardware, Nice interface
 - AWS - Chris Delp
 
-The Committees goal is to make going from free to paid CI as easy as possible.
+The Committee's goal is to make going from free to paid CI as easy as possible.
 Need to write a bit on how to get the guide:
 
 If people ask for credit:
@@ -29,22 +29,22 @@ If people ask for credit:
 
   - AWS
 
-    - Use CI-RUN to integrate with Github Actions
+    - Use CI-RUN to integrate with GitHub Actions
     - allows the structure for sub orgs
     - the quota on the bill is hard
     - Needs active management
 
   - Cirrus-ci
 
-    - Github Actions integration
+    - GitHub Actions integration
     - Can buy credits
 
   - UbiCloud
 
-    - Github Actions based, so easy to use
+    - GitHub Actions based, so easy to use
     - Willing to work with us on billing and customization
 
-  - Github self hosted
+  - GitHub self hosted
 
     - Easiest to use, but often have exotic hardware but getting better: GPUs, windows on arm
 
@@ -66,13 +66,13 @@ CI
 - Types of services available
 
   - IaaS (AWS, GCP, UbiCloud)
-  - PaaS (Github Actions, Gitlab CI)
+  - PaaS (GitHub Actions, GitLab CI)
 
 - Cost
 
   - Predict your costs
   - Testing frequency: per commit vs per pull request vs nightly vs weekly
-  - How to pay for the service via numfocus
+  - How to pay for the service via NumFOCUS
 
 - Benchmarking
 
@@ -99,7 +99,7 @@ See also:
 - https://discuss.scientific-python.org/t/spec-5-ci-best-practices/507/7
 - https://github.com/scientific-python/specs/pulls
 
-Feedback to Github:
+Feedback to GitHub:
 
 - Matrix requires: https://github.com/OpenAstronomy/github-actions-workflows/blob/main/.github/workflows/tox.yml
 
@@ -109,7 +109,7 @@ Discussion boards:
 
   - Would like to just open this document rather than post minutes
   - Seems like a good thing to post proposals like the one above
-  - Update instructions to prefer issues over emailing, slacking, or pinging on github issues
+  - Update instructions to prefer issues over emailing, slacking, or pinging on GitHub issues
 
 Needs from NumFOCUS Staff:
 

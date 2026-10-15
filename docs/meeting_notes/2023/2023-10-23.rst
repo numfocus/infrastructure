@@ -63,7 +63,7 @@ Where to document best practices?
 
 Proposal: github.com/numfocus/infrastructure
 
-Make a sphinx base webpage to be hosted via (GitHub pages)
+Make a sphinx base webpage to be hosted via (GitHub Pages)
 
 No vote needed
 

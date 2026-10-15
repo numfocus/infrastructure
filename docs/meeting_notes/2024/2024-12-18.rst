@@ -1,5 +1,5 @@
 ************
-Dev 18, 2024
+Dec 18, 2024
 ************
 
 * Attendees:
@@ -12,7 +12,7 @@ Dev 18, 2024
 
 * Apologies:
 
-  - Irfan Alibay, Seth Mridul
+  - Irfan Alibay, Mridul Seth
 
 Notes
 =====

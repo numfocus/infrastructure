@@ -41,8 +41,8 @@ Adding or Removing Members
 
 To add a new member, one must do the following:
 
-- Add them to the google group as that is used for the mailing list.
-- Add them to the Infrastructure channel and the members only channel on Zulip.
+- Add them to the Google Group as that is used for the mailing list.
+- Add them to the Infrastructure channel and the members-only channel on Zulip.
 - Add them to the calendar meeting event.
 - Add them to the GitHub team for the Infrastructure Committee.
 

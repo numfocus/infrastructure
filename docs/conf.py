@@ -1,3 +1,5 @@
+# Copyright 2020-2026 NumFOCUS
+
 from datetime import datetime
 
 author = "NumFOCUS Infrastructure Committee"

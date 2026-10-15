@@ -8,7 +8,7 @@ body:
     attributes:
       label: Project or community
       description: >
-        Please provide what NumFOCUS sponsored project, or user group you represent
+        Which NumFOCUS-sponsored project or user group do you represent?
     validations:
       required: true
 
@@ -18,14 +18,14 @@ body:
       label: New domain request?
       options:
         - label: >
-            This request is for creating the DNS of an NEW domain (leave unchecked if requesting an update)
+            This request is for creating the DNS of a NEW domain (leave unchecked if requesting an update)
 
   - type: input
     id: domain
     attributes:
       label: Domain
       description: >
-        Please provide what domain you are requesting
+        Which domain are you requesting?
     validations:
       required: true
 
@@ -34,7 +34,7 @@ body:
     attributes:
       label: DNS
       description: >
-        Please provide what DNS records do you need for the subdomain (e.g. `A 8.8.8.8` or `CNAME you.github.io`)
+        Which DNS records do you need for the domain (e.g. `A 8.8.8.8` or `CNAME you.github.io`)
     validations:
       required: true
 
@@ -45,4 +45,4 @@ body:
       description: >
         Please let us know if there is any other information you'd like to provide
     validations:
-      required: true
+      required: false

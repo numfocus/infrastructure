@@ -4,7 +4,7 @@ July 25, 2025
 
 * Attendees:
 
-  - Smit Lunagariya, Nabil Freij, Andy Terdrel, Benjamin Leff
+  - Smit Lunagariya, Nabil Freij, Andy Terrel, Benjamin Leff
 
 * Observers:
 
@@ -12,7 +12,7 @@ July 25, 2025
 
 * Apologies:
 
-  - Irfan Alibay, Seth Mridul, Kari Hall, Arliss Collins
+  - Irfan Alibay, Mridul Seth, Kari Hall, Arliss Collins
 
 Agenda
 ======
@@ -20,7 +20,7 @@ Agenda
 - Follow up on previous meetings action items.
 - Decide on the outcome of application for the new committee member.
 - GitHub permissions clean up - audit complete, need final review before deleting any teams.
-- Need to start up efforts again to create the guide on how to tell projects to pay for CI/CD from the last numFOCUS summit.
+- Need to start up efforts again to create the guide on how to tell projects to pay for CI/CD from the last NumFOCUS summit.
 - Do we have any updates on ACCESS?
 - Anything else?
 - Addo - pg_dump data from AWS pretalx instances, where should this be kept ideally?
