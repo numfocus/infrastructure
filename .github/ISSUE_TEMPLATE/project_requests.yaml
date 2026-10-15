@@ -8,15 +8,15 @@ body:
     attributes:
       label: Project
       description: >
-        Please provide what NumFOCUS sponsored project you represent
+        Which NumFOCUS-sponsored project do you represent?
     validations:
       required: true
 
   - type: textarea
     id: observations
     attributes:
-      label: Observations
+      label: Request details
       description: >
-        Please let us know if there is any other information you'd like to provide
+        Describe the infrastructure you need and how it will support your project.
     validations:
       required: true

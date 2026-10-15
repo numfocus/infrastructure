@@ -1,18 +1,12 @@
 ************
-Fed 24, 2025
+Feb 24, 2025
 ************
 
-* Attendees:
+:Attendees: Mridul Seth, Nabil Freij
 
-  - Seth Mridul, Nabil Freij
+:Observers: Nicole Foster, Claudia Alvarado, Arliss Collins
 
-* Observers:
-
-  -  Nicole Foster, Claudia Alvarado, Arliss Collins
-
-* Apologies:
-
-  - Irfan Alibay, Andy Terdrel, Addo Davies Jr.
+:Apologies: Irfan Alibay, Andy Terrel, Addo Davies Jr.
 
 Agenda
 ======
@@ -21,12 +15,14 @@ Agenda
 - scverse AWS account (Gregor Sturm)
 - Pandas@OVHcloud - Pandas documentation offline
 - Decide on who should be the secretary and chair of the committee
+
     - Punt to the next meeting.
 
-Notes
-=====
+Discussion
+==========
 
 - Alexandru joined to discuss ACCESS:
+
     - Showed a demo of the setup that he has running for bioconductor.
     - Using Jetstream2
     - He works on this alone, low maintenance.
@@ -36,8 +32,9 @@ Notes
     - Any issues with GDPR compliance?
 
       - No
-    - Would need to ensure that a numfocus employee is able to maintain the system in case Alexandru leaves.
-    - Long term, will NSF be able to fund it or will we need to switch to numFOCUS or project funding?
+
+    - Would need to ensure that a NumFOCUS employee is able to maintain the system in case Alexandru leaves.
+    - Long term, will NSF be able to fund it or will we need to switch to NumFOCUS or project funding?
     - Also we also need to be clear what does funding mean here, it is human time or computer time. We need both to be sustainable.
     - No money exchanges hands, it's based on allocations of tokens.
     - We will need to advertise this to projects, if the application is successful.
@@ -52,4 +49,4 @@ Action items
 
 - Upload notes to the website
 - Gauge interest in ACCESS from projects - looking for some projects that would be interested in a pilot project.
-- Create google survey
+- Create Google survey

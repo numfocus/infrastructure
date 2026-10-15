@@ -2,21 +2,15 @@
 Sep 18, 2024
 ************
 
-* Attendees:
+:Attendees: Andy Terrel, Nabil Freij
 
-  - Andy Terrel, Nabil Freij
+:Observers: Nicole Foster, Claudia Alvarado
 
-* Observers:
-
-  - Nicole Foster, Claudia Alvarado
-
-* Apologies:
-
-  - Katrina Riehl, Irfan Alibay, Matt Moore, Arliss Collins, Seth Mridul
+:Apologies: Katrina Riehl, Irfan Alibay, Matt Moore, Arliss Collins, Mridul Seth
 
 
-Notes
-=====
+Discussion
+==========
 
 IT DevOps Candidates
 --------------------

@@ -1,6 +1,6 @@
 # Allow unused variables when underscore-prefixed.
 lint.dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
-target-version = "py313"
+target-version = "py315"
 line-length = 120
 extend-exclude=[
     "__pycache__",

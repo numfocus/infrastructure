@@ -2,7 +2,7 @@
 Membership
 **********
 
-Below we list each term of the Infrastructure Committee and its members.
+Committee members are listed by term, with the most recent term first.
 
 2026-2027 Term
 --------------
@@ -36,14 +36,14 @@ Below we list each term of the Infrastructure Committee and its members.
 * Members: Katrina Riehl, Irfan Alibay, Mridul Seth
 * Observing Members: Nicole Foster, Matt Moore, Arliss Collins
 
-Adding or Removing Members
+Adding or removing members
 ==========================
 
-To add a new member, one must do the following:
+To add a member:
 
-- Add them to the google group as that is used for the mailing list.
-- Add them to the Infrastructure channel and the members only channel on Zulip.
+- Add them to the Google Group for the mailing list.
+- Add them to the Infrastructure channel and the members-only channel on Zulip.
 - Add them to the calendar meeting event.
 - Add them to the GitHub team for the Infrastructure Committee.
 
-To remove someone, do the opposite.
+To remove a member, remove them from the group, Zulip channels, calendar event, and GitHub team.

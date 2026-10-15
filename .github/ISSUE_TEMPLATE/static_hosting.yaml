@@ -8,19 +8,19 @@ body:
     attributes:
       label: Project
       description: >
-        Please provide what NumFOCUS sponsored project you represent
+        Which NumFOCUS-sponsored project do you represent?
     validations:
       required: true
 
   - type: checkboxes
     id: checks
     attributes:
-      label: Can you use GitHub pages instead?
+      label: Can you use GitHub Pages instead?
       options:
         - label: >
             I read and understood that static hosting should only be requested
-            if requirements are too big for GitHub pages.
-            See [NumFOCUS infrastructure services for projects](/numfocus/infrastructure/tree/master/projects/README.md)
+            if requirements are too big for GitHub Pages.
+            See [NumFOCUS infrastructure services for projects](https://numfocus.github.io/infrastructure/projects/index.html)
           required: true
 
   - type: input
@@ -58,4 +58,4 @@ body:
       description: >
         Please let us know if there is any other information you'd like to provide
     validations:
-      required: true
+      required: false

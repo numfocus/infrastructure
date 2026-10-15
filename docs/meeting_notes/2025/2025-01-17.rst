@@ -2,20 +2,14 @@
 Jan 17, 2025
 ************
 
-* Attendees:
+:Attendees: Andy Terrel, Mridul Seth, Nabil Freij
 
-  - Andy Terrel, Seth Mridul, Nabil Freij
+:Observers: Addo Davies Jr., Nicole Foster, Claudia Alvarado, Arliss Collins
 
-* Observers:
+:Apologies: Irfan Alibay
 
-  -  Addo Davies Jr., Nicole Foster, Claudia Alvarado, Arliss Collins
-
-* Apologies:
-
-  - Irfan Alibay
-
-Notes
-=====
+Discussion
+==========
 
 - Addo completed audit of NumFOCUS resources
 
@@ -35,11 +29,11 @@ Notes
   * Operational details
   * Collaboration with original author
 
-- Explore evening UTC time for Irfran
+- Explore evening UTC time for Irfan
 
  * Preferred: After 6 PM UTC
 
-Action Items
+Action items
 ============
 
 - Nabil: Email Alexandru Mahmoud (NumFOCUS ACCESS)

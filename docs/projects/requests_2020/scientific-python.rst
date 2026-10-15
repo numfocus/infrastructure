@@ -5,7 +5,7 @@ Scientific Python Server Request
 Project Details
 ---------------
 
-Name: Scientific Python Website:
+Name: Scientific Python Website: https://scientific-python.org/
 
 Request November 2020
 ---------------------

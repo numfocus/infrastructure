@@ -11,25 +11,31 @@ Main sections:
 
 ## Building locally
 
-You can create your own Python virtual environment and do the following:
+Use Python 3.15 and create a virtual environment before installing the documentation dependencies:
 
 ```bash
+python3.15 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 cd docs
 make html
-sphinx-build -b html . _build/html
 ```
 
 Or you can use tox:
 
 ```bash
-pip install tox
+python -m pip install -r requirements-dev.txt
 tox -e build_docs
 ```
 
+## Publishing
+
+The Test and Deploy workflow builds the documentation and publishes it with GitHub's native Pages Actions after the style and documentation checks pass on `main`.
+Pull requests build the documentation without deploying it.
+
 ## Contact
 
-[To contact the committee, you can use the email address: infrastructure@numfocus.org](infrastructure@numfocus.org)
+[To contact the committee, you can use the email address: infrastructure@numfocus.org](mailto:infrastructure@numfocus.org)
 
 ## License
 

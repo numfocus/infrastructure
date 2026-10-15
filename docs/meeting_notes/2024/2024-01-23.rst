@@ -2,17 +2,11 @@
 Jan 23, 2024
 ************
 
-* Attendees
+:Attendees: Nabil Freij, Andy Terrel
 
-  - Nabil Freij, Andy Terrel
+:Observers: Arliss Collins, Nicole Foster, Matt Moore
 
-* Observing
-
-  - Arliss Collins, Nicole Foster, Matt Moore
-
-* Apologies
-
-  - Katrina Riehl, Katrina Riehl, Mridul Seth, Irfan Alibay
+:Apologies: Katrina Riehl, Mridul Seth, Irfan Alibay
 
 Action items
 ============

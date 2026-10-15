@@ -1,29 +1,29 @@
 =======================
-Infrastructure Requests
+Infrastructure requests
 =======================
 
-The infrastructure committee has the role of managing project digital infrastructure in a fair, equitable manner, and this requires a process to match.
+Use this process to request infrastructure support from the committee.
 
-Commitments from the infrastructure committee
----------------------------------------------
+What to expect
+--------------
 
-- Acknowledgement of the issue within a **week**
-- Reviews are done undertaken within a **month** of opening an issue
-- Ideally, there will be **two reviewers per issue**
-- If approved, a **time frame for action** to occur is agreed
-- If rejected, a **reason** must be given
+- An acknowledgment within **one week**
+- A review within **one month** of opening the issue
+- **Two reviewers per issue**, when possible
+- An agreed **time frame** for approved requests
+- A **reason** for rejected requests
 
-Review Process
+Review process
 --------------
 
 - A project member opens an issue on the infrastructure repository using one of the provided templates.
-  This will alert to each member of the committee.
+  Committee members monitor incoming issues and manually assign reviewers.
 - Each reviewer fills out the reviewer template within the given time frame.
-- If the reviewers reject the proposal, the issue should be closed as not planned, and the author can not appeal.
+- If the reviewers reject the proposal, the issue should be closed as not planned, and the author cannot appeal.
 - If the reviewers approve the proposal, the issue should only be closed as completed when the task is completed.
 - If the reviewers are split, another member of the committee is asked to review, and then their decision counts as the final vote.
 
-The following template should be used for the review:
+Reviewers use this template:
 
 .. code-block:: markdown
 
@@ -39,7 +39,7 @@ The following template should be used for the review:
 
   ## Review Comments (If any)
 
-Reporting to the Board
+Reporting to the board
 ----------------------
 
 The infrastructure committee provides quarterly reports of our requests and results.

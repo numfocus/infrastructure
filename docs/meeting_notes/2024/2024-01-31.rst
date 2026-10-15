@@ -2,20 +2,14 @@
 Jan 31, 2024
 ************
 
-* Attendees
+:Attendees: Andy Terrel, Irfan Alibay, Nabil Freij, Matt Moore, Katrina Riehl
 
-  - Andy Terrel, Irfan Alibay, Nabil Freij, Matt Moore, Katrina Riehl
+:Observers: Nicole Foster, Arliss Collins
 
-* Observing
+:Apologies: Mridul Seth
 
-  - Nicole Foster, Arliss Collins
-
-* Apologies
-
-  - Mridul Seth
-
-Notes
-=====
+Discussion
+==========
 
 SDG Infrastructure - Proposals 2022 & 2023
 

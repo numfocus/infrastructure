@@ -1,0 +1,15 @@
+max_concurrency = 4
+max_retries = 2
+timeout = 20
+hidden = true
+scheme = ["http", "https", "file"]
+include_fragments = "full"
+
+exclude = [
+    # These two Google documents require sign-in.
+    '^https://docs\.google\.com/document/d/1hzaB_DAGAUdKnfI_x0ktcO6Zf1iP1Er1BtWrpo35LNM/edit(?:[?#].*)?$',
+    '^https://docs\.google\.com/document/d/1WnlSc-PwGEHrp-uf6O4VyhmSZUuuz82YW2pA2YRR3qg/edit(?:[?#].*)?$',
+    # These pages reject automated requests with HTTP 403.
+    '^https://www\.revolut\.com/cards/virtual-card/$',
+    '^https://coronavirus\.jhu\.edu/data/animated-world-map$',
+]

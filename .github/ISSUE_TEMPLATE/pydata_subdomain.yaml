@@ -6,9 +6,9 @@ body:
   - type: input
     id: project
     attributes:
-      label: project
+      label: Project
       description: >
-        Please provide what NumFOCUS sponsored project you represent
+        Which NumFOCUS-sponsored project do you represent?
     validations:
       required: true
 
@@ -25,7 +25,7 @@ body:
     attributes:
       label: Subdomain
       description: >
-        Please provide what subdomain you are requesting (e.g. `pandas` for `pandas.pydata.org`)
+        Which subdomain are you requesting? (e.g. `pandas` for `pandas.pydata.org`)
     validations:
       required: true
 
@@ -34,7 +34,7 @@ body:
     attributes:
       label: DNS
       description: >
-        Please provide what DNS records do you need for the subdomain (e.g. `A 8.8.8.8`)
+        Which DNS records do you need for the subdomain (e.g. `A 8.8.8.8`)
     validations:
       required: true
 
@@ -45,4 +45,4 @@ body:
       description: >
         Please let us know if there is any other information you'd like to provide
     validations:
-      required: true
+      required: false

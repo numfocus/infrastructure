@@ -23,11 +23,11 @@ The Infrastructure Committee will manage project digital infrastructure in a way
 
 The Committee will:
 
-- Advise NF staff infrastructure team on how to administer account credentials and access
+- Advise the NF staff infrastructure team on how to administer account credentials and access
 - Make ongoing recommendations to improve and enhance available infrastructure
-- Act as a liaison between sponsored projects and the NF Infrastructure Staff, (who works with vendors)
+- Act as a liaison between sponsored projects and the NF infrastructure staff, who work with vendors
 - Have a representative at monthly project meetings
-- Triage new request, e.g., is a request a common need or one off?
+- Triage new requests, e.g., is a request a common need or a one-off?
 - Present best practices from various projects
 - Review its charter annually and recommend changes to the board for review
 
@@ -44,7 +44,7 @@ Membership
 
 Membership will reflect the NumFOCUS Diversity Statement by welcoming and encouraging participation by people of all backgrounds and identities and promoting and sustaining a culture that values mutual respect, acceptance, and learning.
 
-The committee will consist of at least 5 members from NumFOCUS at-large community, with the following constraints:
+The committee will consist of at least 5 members from the NumFOCUS community at large, with the following constraints:
 
 - 1 member is a project contributor to a NumFOCUS sponsored project
 - No more than 2 members are related in employment or NumFOCUS project leadership committee
@@ -61,7 +61,7 @@ Selection
 
 Members will be selected by the committee's officers or current members using a rating system.
 The Vice President may be selected by the board of directors or elected annually by the members of the committee.
-The secretary will be elected by the committee's members.
+The Secretary will be elected by the committee's members.
 
 Terms
 ^^^^^
@@ -81,4 +81,4 @@ Record Keeping and Reporting
 
 All committee records will be kept in https://github.com/numfocus/infrastructure
 
-A annual report on the state of project digital infrastructure including all committee actions will be submitted to the board of directors before the 15th of January.
+An annual report on the state of project digital infrastructure including all committee actions will be submitted to the board of directors before the 15th of January.

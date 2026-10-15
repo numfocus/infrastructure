@@ -2,30 +2,24 @@
 Aug 22, 2025
 ************
 
-* Attendees:
+:Attendees: Nabil Freij
 
-  - Nabil Freij
+:Observers: Claudia Alvarado, Addo Davies Jr., Nicole Foster
 
-* Observers:
-
-  -  Claudia Alvarado, Addo Davies Jr., Nicole Foster
-
-* Apologies:
-
-  - Irfan Alibay, Seth Mridul, Kari Hall, Arliss Collins, Smit Lunagariya, Andy Terdrel, Benjamin Leff
+:Apologies: Irfan Alibay, Mridul Seth, Kari Hall, Arliss Collins, Smit Lunagariya, Andy Terrel, Benjamin Leff
 
 Agenda
 ======
 
 - Follow up on previous meetings action items.
-- ASV Bookmarking Demo.
+- ASV Benchmarking Demo.
 
-Notes
-=====
+Discussion
+==========
 
 - Nabil emailed Alex about getting access to ACCESS, still no response.
-- Nabil emailed Alex about getting access to ACCESS, still no response.
-- Addo has a meeting to showcase his prototype of the new benchmarking frontend to the astropy folks.
+- Addo has a meeting to showcase his prototype of the new benchmarking frontend to the Astropy folks.
+
   - Once he has the full range of requirements from them and MDAnalysis, he can add more features.
 
 Action items

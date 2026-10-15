@@ -2,11 +2,9 @@
 Paying for CI/CD
 ****************
 
-This guide is intended to help projects get their CI/CD paid for by NumFOCUS.
+.. warning::
 
-**WIP**
+   This page is a placeholder. Detailed payment instructions are not yet available.
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents
-   :glob:
+To ask about funding CI/CD for your project, follow the :doc:`infrastructure request process </review_process>` and open a `project request issue <https://github.com/numfocus/infrastructure/issues/new?template=project_requests.yaml>`__.
+Include the CI/CD service, hardware requirements, and estimated costs.

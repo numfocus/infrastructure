@@ -1,0 +1,5 @@
+@media (max-width: 575.98px) {
+  .navbar-brand .logo__title {
+    display: none;
+  }
+}

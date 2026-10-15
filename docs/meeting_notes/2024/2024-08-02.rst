@@ -2,20 +2,14 @@
 Aug 02, 2024
 ************
 
-* Attendees:
+:Attendees: Mridul Seth, Nabil Freij
 
-  - Seth Mridul, Nabil Freij
+:Observers: Nicole Foster, Arliss Collins
 
-* Observers:
+:Apologies: Andy Terrel, Katrina Riehl, Irfan Alibay, Matt Moore, Claudia Alvarado
 
-  - Nicole Foster, Arliss Collins
-
-* Apologies:
-
-  - Andy Terrel, Katrina Riehl, Irfan Alibay, Matt Moore, Claudia Alvarado
-
-Notes
-=====
+Discussion
+==========
 
 Summit:
 
@@ -87,4 +81,4 @@ Action items
   - Generate sphinx skeleton Nabil Freij
   - Start writing base guide Andy Terrel
 
-- Filter more resumes on linkedin Andy Terrel,  Seth Mridul, Nabil Freij
+- Filter more resumes on linkedin Andy Terrel,  Mridul Seth, Nabil Freij

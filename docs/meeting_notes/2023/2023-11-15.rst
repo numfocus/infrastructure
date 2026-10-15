@@ -2,20 +2,14 @@
 Nov 15, 2023
 ************
 
-* Attendees
+:Attendees: Andy Terrel, Irfan Alibay, Nabil Freij
 
-  - Andy Terrel, Irfan Alibay, Nabil Freij
+:Observers: Nicole Foster, Arliss Collins
 
-* Observing
+:Apologies: Katrina Riehl, Matt Moore, Mridul Seth
 
-  - Nicole Foster, Arliss Collins
-
-* Apologies
-
-  - Katrina Riehl, Matt Moore, Mridul Seth
-
-Notes
-=====
+Discussion
+==========
 
 Approval of last month's minutes
 --------------------------------
@@ -69,13 +63,13 @@ Get projects to use issues on the infra repo to document their needs.
 Advertise it to the projects.
 GPU CI/CD
 Pinged a lot from many projects
-Github Actions
+GitHub Actions
 Private beta starting now for paid accounts but public beta in a few months. They need help justifying the use of Azure GPU machines for CI/CD purposes
 
 Recommend we write a letter on how impactful GPU Hosted Runners will be to our projects
 Use case
 Projects
-Scikit-learn - Arlliss has already talked to Adrin about providing this.
+Scikit-learn - Arliss has already talked to Adrin about providing this.
 Cupy
 dask
 Reach out to other organizations

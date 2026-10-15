@@ -1,3 +1,5 @@
-default.extend-ignore-identifiers-re = [
+[default]
+locale = "en-us"
+extend-ignore-identifiers-re = [
     "alog",
 ]
