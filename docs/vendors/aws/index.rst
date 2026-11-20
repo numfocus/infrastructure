@@ -8,15 +8,17 @@ For the sub-org account a group email will be made and the project's infrastruct
 Account Creation
 ----------------
 
-Let's run through an example, first we create an email group <project_name>-aws-admin@numfocus.org.
+Let's run through an example, first we create an email group ``<project_name>-aws-admin@numfocus.org``.
 
 .. image:: google_group_creation.png
    :width: 600
+   :alt: Google Groups "Create group" form with the group name and email address set to blosc-aws-admin at numfocus.org.
 
 Then we create an AWS account named ``numfocus-<project_name>``.
 
 .. image:: AWSSubAccountCreation.png
    :width: 600
+   :alt: AWS Organizations "Create account" form with the account name numfocus-blosc and the email blosc-aws-admin at numfocus.org.
 
 That account will be used to create a root account password.
 
