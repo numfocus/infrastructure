@@ -13,8 +13,8 @@ Request Aug 2020
 Requester
 ~~~~~~~~~
 
--  Filipe Pires Alvarenga Fernandes ocefpaf@gmail.com
--  Matthew Becker becker.mr@gmail.com
+-  Filipe Pires Alvarenga Fernandes
+-  Matthew Becker
 
 Request Details
 ~~~~~~~~~~~~~~~

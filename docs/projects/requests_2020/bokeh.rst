@@ -13,7 +13,7 @@ Request October 2021
 Requester
 ~~~~~~~~~
 
--  Bryan Van de Ven bryan@bokeh.org
+-  Bryan Van de Ven
 
 Request Details
 ~~~~~~~~~~~~~~~

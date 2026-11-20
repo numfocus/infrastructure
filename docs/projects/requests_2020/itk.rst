@@ -13,7 +13,7 @@ Request April 2020
 Requester
 ~~~~~~~~~
 
--  Matt McCormick matt@mmmccormick.com
+-  Matt McCormick
 
 Request Details
 ~~~~~~~~~~~~~~~

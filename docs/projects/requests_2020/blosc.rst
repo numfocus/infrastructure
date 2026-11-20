@@ -13,7 +13,7 @@ Request April 2020
 Requester
 ~~~~~~~~~
 
--  Francesc Alted faltet@gmail.com
+-  Francesc Alted
 
 Request Details
 ~~~~~~~~~~~~~~~
