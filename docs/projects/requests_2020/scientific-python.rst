@@ -13,7 +13,7 @@ Request November 2020
 Requester
 ~~~~~~~~~
 
--  Stefan van der Walt stefanv@berkeley.edu
+-  Stefan van der Walt
 
 Request Details
 ~~~~~~~~~~~~~~~

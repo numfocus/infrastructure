@@ -13,7 +13,7 @@ Request April 2020
 Requester
 ~~~~~~~~~
 
--  Marc Garcia garcia.marc@gmail.com
+-  Marc Garcia
 
 Request Details
 ~~~~~~~~~~~~~~~

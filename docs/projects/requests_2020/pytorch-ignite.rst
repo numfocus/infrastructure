@@ -15,7 +15,7 @@ Request September 2020
 Requester
 ~~~~~~~~~
 
--  Victor Fomin vfdev.5@gmail.com
+-  Victor Fomin
 
 Request Details
 ~~~~~~~~~~~~~~~

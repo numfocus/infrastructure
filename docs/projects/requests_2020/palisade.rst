@@ -12,7 +12,7 @@ Request April 2020
 Requester
 ~~~~~~~~~
 
--  Dave Cousins dcousins@dualitytech.com
+-  Dave Cousins
 
 Request Details
 ~~~~~~~~~~~~~~~

@@ -13,7 +13,7 @@ Request April 2020
 Requester
 ~~~~~~~~~
 
--  Mridul Seth seth.mridul@gmail.com
+-  Mridul Seth
 
 Request Details
 ~~~~~~~~~~~~~~~

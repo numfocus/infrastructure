@@ -13,7 +13,7 @@ Request August 2020
 Requester
 ~~~~~~~~~
 
--  Matt Haberland matt.haberland@gmail.com
+-  Matt Haberland
 
 Request Details
 ~~~~~~~~~~~~~~~

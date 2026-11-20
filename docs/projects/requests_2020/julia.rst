@@ -13,8 +13,8 @@ Request April 2020
 Requester
 ~~~~~~~~~
 
--  Keno Fischer keno@juliacomputing.com
--  Viral Shah viral@juliacomputing.com
+-  Keno Fischer
+-  Viral Shah
 
 Request Details
 ~~~~~~~~~~~~~~~
